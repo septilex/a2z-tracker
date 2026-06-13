@@ -1,0 +1,9 @@
+# Ignore large cached html files
+full_page.html
+.system_generated/
+*.tmp
+*.log
+
+# Ignore raw extractions (we only want the simple one and scripts)
+# Actually, let's keep the raw extractions for posterity, just ignore the huge HTML
+node_modules/
