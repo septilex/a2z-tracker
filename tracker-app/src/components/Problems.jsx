@@ -22,7 +22,7 @@ export default function Problems({ problems, progress, updateStatus, focusProble
         const el = document.getElementById(`problem-${focusProblemId}`);
         if (el) {
           el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          el.style.border = '2px solid var(--accent-color)';
+          el.style.border = '2px solid var(--accent-primary)';
           el.style.transform = 'scale(1.02)';
           setTimeout(() => {
             el.style.border = '1px solid var(--border-color)';

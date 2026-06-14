@@ -1,13 +1,15 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Dashboard from './components/Dashboard';
 import Problems from './components/Problems';
 import { useProgress } from './hooks/useProgress';
+import { useTheme } from './hooks/useTheme';
 import problemsData from './data/problems.json';
 
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [focusProblemId, setFocusProblemId] = useState(null);
   const { progress, updateStatus } = useProgress();
+  const { theme, toggleTheme } = useTheme();
 
   const handleContinue = () => {
     const nextProblem = problemsData.find(p => progress[p.id] !== 'solved');
@@ -22,8 +24,8 @@ function App() {
   return (
     <div className="app-container">
       <nav className="navbar">
-        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-          <h1 style={{ margin: 0, fontSize: '1.5rem', color: 'var(--accent-color)' }}>A2Z Tracker</h1>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '2rem' }}>
+          <h1 style={{ margin: 0, fontSize: '1.5rem', color: 'var(--accent-primary)' }}>A2Z Tracker</h1>
           <div className="nav-links">
             <button 
               className={`nav-btn ${activeTab === 'dashboard' ? 'active' : ''}`}
@@ -39,9 +41,15 @@ function App() {
             </button>
           </div>
         </div>
-        <button className="btn-primary" onClick={handleContinue}>
-          Continue Solving
-        </button>
+        
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+          <button className="theme-toggle-btn" onClick={toggleTheme} aria-label="Toggle Theme">
+            {theme === 'dark' ? '☀️ Light' : '🌙 Dark'}
+          </button>
+          <button className="btn-primary" onClick={handleContinue}>
+            Continue Solving
+          </button>
+        </div>
       </nav>
 
       <main>
