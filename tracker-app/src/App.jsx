@@ -7,7 +7,8 @@ import problemsData from './data/problems.json';
 
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
-  const [focusProblemId, setFocusProblemId] = useState(null);
+  const [focusTrigger, setFocusTrigger] = useState(null);
+  const [initialTopic, setInitialTopic] = useState('');
   const { progress, updateStatus } = useProgress();
   const { theme, toggleTheme } = useTheme();
 
@@ -15,10 +16,16 @@ function App() {
     const nextProblem = problemsData.find(p => progress[p.id] !== 'solved');
     if (nextProblem) {
       setActiveTab('problems');
-      setFocusProblemId(nextProblem.id);
+      setFocusTrigger({ id: nextProblem.id, timestamp: Date.now() });
+      setInitialTopic('');
     } else {
       alert("Congratulations! You've solved all 474 problems!");
     }
+  };
+
+  const handleTopicClick = (topic) => {
+    setInitialTopic(topic);
+    setActiveTab('problems');
   };
 
   return (
@@ -29,13 +36,13 @@ function App() {
           <div className="nav-links">
             <button 
               className={`nav-btn ${activeTab === 'dashboard' ? 'active' : ''}`}
-              onClick={() => { setActiveTab('dashboard'); setFocusProblemId(null); }}
+              onClick={() => { setActiveTab('dashboard'); setInitialTopic(''); }}
             >
               Dashboard
             </button>
             <button 
               className={`nav-btn ${activeTab === 'problems' ? 'active' : ''}`}
-              onClick={() => { setActiveTab('problems'); setFocusProblemId(null); }}
+              onClick={() => { setActiveTab('problems'); setInitialTopic(''); }}
             >
               Problems
             </button>
@@ -54,14 +61,15 @@ function App() {
 
       <main>
         {activeTab === 'dashboard' && (
-          <Dashboard problems={problemsData} progress={progress} />
+          <Dashboard problems={problemsData} progress={progress} onTopicClick={handleTopicClick} />
         )}
         {activeTab === 'problems' && (
           <Problems 
             problems={problemsData} 
             progress={progress} 
             updateStatus={updateStatus} 
-            focusProblemId={focusProblemId}
+            focusTrigger={focusTrigger}
+            initialTopic={initialTopic}
           />
         )}
       </main>

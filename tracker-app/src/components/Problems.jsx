@@ -1,16 +1,26 @@
 import React, { useState, useMemo, useEffect, useRef } from 'react';
 import ProblemCard from './ProblemCard';
 
-export default function Problems({ problems, progress, updateStatus, focusProblemId }) {
+export default function Problems({ problems, progress, updateStatus, focusTrigger, initialTopic }) {
   const [search, setSearch] = useState('');
-  const [topicFilter, setTopicFilter] = useState('');
+  const [topicFilter, setTopicFilter] = useState(initialTopic || '');
   const [diffFilter, setDiffFilter] = useState('');
   const [statusFilter, setStatusFilter] = useState('');
   
   const containerRef = useRef(null);
 
   useEffect(() => {
-    if (focusProblemId) {
+    if (initialTopic) {
+      setTopicFilter(initialTopic);
+      setSearch('');
+      setDiffFilter('');
+      setStatusFilter('');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }, [initialTopic]);
+
+  useEffect(() => {
+    if (focusTrigger && focusTrigger.id) {
       // Clear filters so the problem is definitely visible
       setSearch('');
       setTopicFilter('');
@@ -19,7 +29,7 @@ export default function Problems({ problems, progress, updateStatus, focusProble
       
       // Give DOM time to clear filters and render
       setTimeout(() => {
-        const el = document.getElementById(`problem-${focusProblemId}`);
+        const el = document.getElementById(`problem-${focusTrigger.id}`);
         if (el) {
           el.scrollIntoView({ behavior: 'smooth', block: 'center' });
           el.style.border = '2px solid var(--accent-primary)';
@@ -31,7 +41,7 @@ export default function Problems({ problems, progress, updateStatus, focusProble
         }
       }, 100);
     }
-  }, [focusProblemId]);
+  }, [focusTrigger]);
 
   const topics = useMemo(() => [...new Set(problems.map(p => p.topic))], [problems]);
 

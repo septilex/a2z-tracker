@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 
-export default function Dashboard({ problems, progress }) {
+export default function Dashboard({ problems, progress, onTopicClick }) {
   const total = problems.length;
   const solved = Object.values(progress).filter(s => s === 'solved').length;
   const percentage = total > 0 ? Math.round((solved / total) * 100) : 0;
@@ -124,7 +124,12 @@ export default function Dashboard({ problems, progress }) {
       <h3 className="section-title">Topic Progress</h3>
       <div className="dashboard-grid">
         {topicsProgress.map(t => (
-          <div key={t.topic} className="glass-panel topic-card">
+          <div 
+            key={t.topic} 
+            className="glass-panel topic-card"
+            style={{ cursor: 'pointer' }}
+            onClick={() => onTopicClick && onTopicClick(t.topic)}
+          >
             <h4 className="topic-title" title={t.topic}>{t.topic}</h4>
             <div className="topic-stats">
               <span className="topic-percent">{t.percent}%</span>
