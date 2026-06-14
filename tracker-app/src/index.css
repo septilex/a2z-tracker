@@ -588,27 +588,29 @@ a:hover {
   letter-spacing: 0.03em;
 }
 
-.link-btn-solve {
+/* ── Solve: LeetCode ─────────────────────────── cyan/blue */
+.link-btn-lc {
   border-color: var(--accent-primary);
   color: var(--accent-primary);
 }
-.link-btn-solve:hover {
+.link-btn-lc:hover {
   background-color: var(--accent-primary);
   color: var(--bg-primary);
-  box-shadow: 0 0 10px var(--accent-primary);
+  box-shadow: 0 0 12px var(--accent-primary);
 }
 
-/* GFG variant — green tint */
-.link-btn-gfg {
-  border-color: #2cbb5d !important;
-  color: #2cbb5d !important;
+/* ── Solve: GFG ──────────────────────────────── green */
+.link-btn-gfg-solve {
+  border-color: #2cbb5d;
+  color: #2cbb5d;
 }
-.link-btn-gfg:hover {
-  background-color: #2cbb5d !important;
-  color: #fff !important;
-  box-shadow: 0 0 10px #2cbb5d !important;
+.link-btn-gfg-solve:hover {
+  background-color: #2cbb5d;
+  color: #fff;
+  box-shadow: 0 0 12px #2cbb5d;
 }
 
+/* ── Striver ─────────────────────────────────── red */
 .link-btn-striver {
   border-color: #ff4040;
   color: #ff4040;
@@ -616,9 +618,10 @@ a:hover {
 .link-btn-striver:hover {
   background-color: #ff4040;
   color: #fff;
-  box-shadow: 0 0 10px #ff4040;
+  box-shadow: 0 0 12px #ff4040;
 }
 
+/* ── Java ────────────────────────────────────── amber */
 .link-btn-java {
   border-color: #f89820;
   color: #f89820;
@@ -626,16 +629,48 @@ a:hover {
 .link-btn-java:hover {
   background-color: #f89820;
   color: #111;
-  box-shadow: 0 0 10px #f89820;
+  box-shadow: 0 0 12px #f89820;
 }
 
+/* ── Disabled ────────────────────────────────── muted */
 .link-btn-disabled {
   border-color: var(--border-color);
   color: var(--text-secondary);
-  opacity: 0.35;
+  opacity: 0.3;
   cursor: not-allowed;
   pointer-events: none;
 }
+
+/* ── Problem title row (title + GFG-only badge) */
+.problem-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+/* ── GFG-only badge ──────────────────────────── subtle green pill */
+.badge-no-lc {
+  font-size: 0.65rem;
+  font-family: var(--header-font);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.55rem;
+  border-radius: 3px;
+  border: 1px solid #2cbb5d;
+  color: #2cbb5d;
+  background-color: rgba(44, 187, 93, 0.08);
+  cursor: help;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* light theme adaptation for the badge */
+[data-theme="light"] .badge-no-lc {
+  background-color: rgba(44, 187, 93, 0.12);
+}
+
 
 
 .status-select {

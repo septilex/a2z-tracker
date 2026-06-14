@@ -1,0 +1,1040 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Input Output",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/input-output-in-java/"
+  },
+  {
+    "id": 3,
+    "name": "If ElseIf",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/"
+  },
+  {
+    "id": 4,
+    "name": "Switch Case",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/switch-statement-in-java/"
+  },
+  {
+    "id": 5,
+    "name": "What are arrays, strings?",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/arrays-in-java/"
+  },
+  {
+    "id": 6,
+    "name": "For loops",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/loops-in-java/"
+  },
+  {
+    "id": 7,
+    "name": "While loops",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/java-while-loop-with-examples/"
+  },
+  {
+    "id": 8,
+    "name": "Functions (Pass by Reference and Value)",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/methods-in-java/"
+  },
+  {
+    "id": 10,
+    "name": "Easy and Medium",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 11,
+    "name": "Hard",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 12,
+    "name": "Pattern 1",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 13,
+    "name": "Pattern 2",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 14,
+    "name": "Pattern 3",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 15,
+    "name": "Pattern 4",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 16,
+    "name": "Pattern 5",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 17,
+    "name": "Pattern 6",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 18,
+    "name": "Pattern 7",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 19,
+    "name": "Pattern 8",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 20,
+    "name": "Pattern 9",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 21,
+    "name": "Pattern 10",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 22,
+    "name": "Pattern 11",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 23,
+    "name": "Pattern 12",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 24,
+    "name": "Pattern 13",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 25,
+    "name": "Pattern 14",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 26,
+    "name": "Pattern 15",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 27,
+    "name": "Pattern 16",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 28,
+    "name": "Pattern 17",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 29,
+    "name": "Pattern 18",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 30,
+    "name": "Pattern 19",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 31,
+    "name": "Pattern 20",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 32,
+    "name": "Pattern 21",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 33,
+    "name": "Pattern 22",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+  },
+  {
+    "id": 34,
+    "name": "STL",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/collections-in-java-2/"
+  },
+  {
+    "id": 35,
+    "name": "Java Collections",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/collections-in-java-2/"
+  },
+  {
+    "id": 36,
+    "name": "Count all Digits of a Number",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/program-count-digits-integer-3/"
+  },
+  {
+    "id": 39,
+    "name": "GCD of Two Numbers",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/gcd-euclids-algorithm/"
+  },
+  {
+    "id": 41,
+    "name": "Print all Divisors",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/find-divisors-natural-number-set-1/"
+  },
+  {
+    "id": 43,
+    "name": "Understand recursion by print something N times",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/recursion-in-java/"
+  },
+  {
+    "id": 44,
+    "name": "Print name N times using recursion",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/recursion-in-java/"
+  },
+  {
+    "id": 45,
+    "name": "Print 1 to N using Recursion",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/recursion-in-java/"
+  },
+  {
+    "id": 46,
+    "name": "Print N to 1 using Recursion",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/recursion-in-java/"
+  },
+  {
+    "id": 47,
+    "name": "Sum of First N Numbers",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/"
+  },
+  {
+    "id": 48,
+    "name": "Factorial of a given number",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/factorial-in-java/"
+  },
+  {
+    "id": 52,
+    "name": "Basic Hashing",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/hashing-in-java/"
+  },
+  {
+    "id": 53,
+    "name": "Counting Frequencies of Array Elements",
+    "topic": "Learn the basics",
+    "solve_url": "https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/"
+  },
+  {
+    "id": 55,
+    "name": "Selection Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "solve_url": "https://www.geeksforgeeks.org/selection-sort/"
+  },
+  {
+    "id": 56,
+    "name": "Bubble Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "solve_url": "https://www.geeksforgeeks.org/bubble-sort/"
+  },
+  {
+    "id": 57,
+    "name": "Insertion Sorting",
+    "topic": "Learn Important Sorting Techniques",
+    "solve_url": "https://www.geeksforgeeks.org/insertion-sort/"
+  },
+  {
+    "id": 59,
+    "name": "Recursive Bubble Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "solve_url": "https://www.geeksforgeeks.org/recursive-bubble-sort/"
+  },
+  {
+    "id": 60,
+    "name": "Recursive Insertion Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "solve_url": "https://www.geeksforgeeks.org/recursive-insertion-sort/"
+  },
+  {
+    "id": 62,
+    "name": "Largest Element ",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/c-program-find-largest-element-array/"
+  },
+  {
+    "id": 63,
+    "name": "Second Largest Element",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/find-second-largest-element-array/"
+  },
+  {
+    "id": 70,
+    "name": "Union of two sorted arrays",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/"
+  },
+  {
+    "id": 74,
+    "name": "Longest subarray with given sum K(positives)",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/longest-sub-array-sum-k/"
+  },
+  {
+    "id": 75,
+    "name": "Longest subarray with sum K",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/longest-sub-array-sum-k/"
+  },
+  {
+    "id": 84,
+    "name": "Leaders in an Array",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/leaders-in-an-array/"
+  },
+  {
+    "id": 94,
+    "name": "Largest Subarray with Sum 0",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/largest-subarray-with-0-sum/"
+  },
+  {
+    "id": 95,
+    "name": "Count subarrays with given xor K",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/count-number-subarrays-given-xor/"
+  },
+  {
+    "id": 98,
+    "name": "Find the repeating and missing number",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/"
+  },
+  {
+    "id": 99,
+    "name": "Count Inversions",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/counting-inversions/"
+  },
+  {
+    "id": 103,
+    "name": "Lower Bound ",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/floor-in-a-sorted-array/"
+  },
+  {
+    "id": 106,
+    "name": "Floor and Ceil in Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/"
+  },
+  {
+    "id": 108,
+    "name": "Count Occurrences in a Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/count-occurrences-in-a-sorted-array/"
+  },
+  {
+    "id": 112,
+    "name": "Find out how many times the array is rotated",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/"
+  },
+  {
+    "id": 116,
+    "name": "Find Nth root of a number",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/find-nth-root-of-m/"
+  },
+  {
+    "id": 122,
+    "name": "Aggressive Cows",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/aggressive-cows/"
+  },
+  {
+    "id": 123,
+    "name": "Book Allocation Problem",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/allocate-minimum-number-pages/"
+  },
+  {
+    "id": 125,
+    "name": "Painter's Partition",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/painters-partition-problem/"
+  },
+  {
+    "id": 128,
+    "name": "Kth element of 2 sorted arrays",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/k-th-element-two-sorted-arrays/"
+  },
+  {
+    "id": 129,
+    "name": "Find row with maximum 1's",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/find-index-maximum-occurring-element-equal-probability/"
+  },
+  {
+    "id": 133,
+    "name": "Matrix Median",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "solve_url": "https://www.geeksforgeeks.org/find-median-row-wise-sorted-matrix/"
+  },
+  {
+    "id": 145,
+    "name": "Count Number of Substrings",
+    "topic": "Strings [Basic and Medium]",
+    "solve_url": "https://www.geeksforgeeks.org/count-substrings-with-k-distinct-characters/"
+  },
+  {
+    "id": 149,
+    "name": "Introduction to Singly LinkedList",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/linked-list-set-1-introduction/"
+  },
+  {
+    "id": 150,
+    "name": "Insertion at the head of Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/"
+  },
+  {
+    "id": 152,
+    "name": "Find the length of the Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/"
+  },
+  {
+    "id": 153,
+    "name": "Search in Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/"
+  },
+  {
+    "id": 154,
+    "name": "Introduction to Doubly LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/doubly-linked-list/"
+  },
+  {
+    "id": 155,
+    "name": "Insert node before head in Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/doubly-linked-list/"
+  },
+  {
+    "id": 156,
+    "name": "Delete head of Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/doubly-linked-list/"
+  },
+  {
+    "id": 157,
+    "name": "Reverse a Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/"
+  },
+  {
+    "id": 163,
+    "name": "Length of loop in LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/find-length-of-loop-in-linked-list/"
+  },
+  {
+    "id": 169,
+    "name": "Sort a Linked List of 0's 1's and 2's",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/sort-linked-list-already-sorted-absolute-values/"
+  },
+  {
+    "id": 171,
+    "name": "Add one to a number represented by LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/add-1-number-represented-linked-list/"
+  },
+  {
+    "id": 173,
+    "name": "Delete all occurrences of a key in DLL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/delete-occurrences-given-key-doubly-linked-list/"
+  },
+  {
+    "id": 174,
+    "name": "Find Pairs with Given Sum in Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/"
+  },
+  {
+    "id": 175,
+    "name": "Remove duplicates from sorted DLL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/remove-duplicates-sorted-doubly-linked-list/"
+  },
+  {
+    "id": 178,
+    "name": "Flattening of LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/flattening-a-linked-list/"
+  },
+  {
+    "id": 183,
+    "name": "Sort a stack using recursion",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/"
+  },
+  {
+    "id": 184,
+    "name": "Reverse a Stack",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/"
+  },
+  {
+    "id": 185,
+    "name": "Generate Binary Strings Without Consecutive 1s",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/generate-binary-strings-without-consecutive-1s/"
+  },
+  {
+    "id": 188,
+    "name": "Learn All Patterns of Subsequences (Theory)",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/generating-all-possible-subsequences-using-recursion/"
+  },
+  {
+    "id": 189,
+    "name": "Count all subsequences with sum K",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/count-of-subsets-having-sum-equal-to-k/"
+  },
+  {
+    "id": 190,
+    "name": "Check if there exists a subsequence with sum K",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/check-if-a-subset-with-sum-divisible-by-m-exist/"
+  },
+  {
+    "id": 200,
+    "name": "Rat in a Maze",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/rat-in-a-maze/"
+  },
+  {
+    "id": 202,
+    "name": "M Coloring Problem",
+    "topic": "Recursion [PatternWise]",
+    "solve_url": "https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/"
+  },
+  {
+    "id": 205,
+    "name": "Introduction to Bits and Tricks",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/bits-manipulation-important-tactics/"
+  },
+  {
+    "id": 206,
+    "name": "Check if the i-th bit is Set or Not",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/"
+  },
+  {
+    "id": 207,
+    "name": "Check if a Number is Odd or Not",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/check-if-number-is-even-or-odd/"
+  },
+  {
+    "id": 210,
+    "name": "Set/Unset the rightmost unset bit",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/unset-rightmost-set-bit/"
+  },
+  {
+    "id": 211,
+    "name": "Swap Two Numbers",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
+  },
+  {
+    "id": 216,
+    "name": "XOR of numbers in a given range",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/find-xor-of-all-elements-in-a-given-range/"
+  },
+  {
+    "id": 218,
+    "name": "Print Prime Factors of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/"
+  },
+  {
+    "id": 219,
+    "name": "Divisors of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/find-divisors-natural-number-set-1/"
+  },
+  {
+    "id": 221,
+    "name": "Prime factorisation of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/"
+  },
+  {
+    "id": 223,
+    "name": "Implement Stack using Arrays",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/stack-data-structure-introduction-program/"
+  },
+  {
+    "id": 224,
+    "name": "Implement Queue using Arrays",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/queue-data-structure/"
+  },
+  {
+    "id": 227,
+    "name": "Implement stack using Linkedlist",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/"
+  },
+  {
+    "id": 228,
+    "name": "Implement queue using Linkedlist",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/queue-linked-list-implementation/"
+  },
+  {
+    "id": 231,
+    "name": "Infix to Postfix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
+  },
+  {
+    "id": 232,
+    "name": "Prefix to Infix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/prefix-infix-conversion/"
+  },
+  {
+    "id": 233,
+    "name": "Prefix to Postfix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/prefix-postfix-conversion/"
+  },
+  {
+    "id": 234,
+    "name": "Postfix to Prefix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/postfix-prefix-conversion/"
+  },
+  {
+    "id": 235,
+    "name": "Postfix to Infix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/postfix-to-infix/"
+  },
+  {
+    "id": 236,
+    "name": "Infix to Prefix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/infix-prefix-conversion/"
+  },
+  {
+    "id": 239,
+    "name": "Next Smaller Element",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/next-smaller-element/"
+  },
+  {
+    "id": 240,
+    "name": "Number of Greater Elements to the Right",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "solve_url": "https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater/"
+  },
+  {
+    "id": 266,
+    "name": "Heaps (Theory Video)",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/binary-heap/"
+  },
+  {
+    "id": 267,
+    "name": "Implement Min Heap",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/min-heap-in-java/"
+  },
+  {
+    "id": 268,
+    "name": "Check if an array represents a min heap ",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/"
+  },
+  {
+    "id": 269,
+    "name": "Convert Min Heap to Max Heap",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/"
+  },
+  {
+    "id": 271,
+    "name": "Sort K sorted array",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/"
+  },
+  {
+    "id": 279,
+    "name": "Maximum Sum Combination",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/find-k-pairs-largest-sum/"
+  },
+  {
+    "id": 283,
+    "name": "Fractional Knapsack",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/fractional-knapsack-problem/"
+  },
+  {
+    "id": 286,
+    "name": "N meetings in one room",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/n-meetings-in-one-room/"
+  },
+  {
+    "id": 289,
+    "name": "Minimum number of platforms required for a railway",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/"
+  },
+  {
+    "id": 290,
+    "name": "Job sequencing Problem",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/job-sequencing-problem/"
+  },
+  {
+    "id": 292,
+    "name": "Shortest Job First",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "solve_url": "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/"
+  },
+  {
+    "id": 297,
+    "name": "Introduction to Trees",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/binary-tree-data-structure/"
+  },
+  {
+    "id": 298,
+    "name": "Binary Tree Representation in Java",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/binary-tree-set-1-introduction/"
+  },
+  {
+    "id": 317,
+    "name": "Top View of BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/"
+  },
+  {
+    "id": 318,
+    "name": "Bottom view of BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/bottom-view-binary-tree/"
+  },
+  {
+    "id": 324,
+    "name": "Children Sum Property in Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/"
+  },
+  {
+    "id": 326,
+    "name": "Minimum time taken to burn the BT from a given Node",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/burning-tree/"
+  },
+  {
+    "id": 328,
+    "name": "Requirements needed to construct a unique BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/if-you-are-given-two-traversal-sequences-can-you-construct-the-binary-tree/"
+  },
+  {
+    "id": 335,
+    "name": "Introduction to BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+  },
+  {
+    "id": 337,
+    "name": "Find Min/Max in BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/find-the-minimum-and-maximum-element-in-a-binary-search-tree/"
+  },
+  {
+    "id": 338,
+    "name": "Floor and Ceil in a BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/"
+  },
+  {
+    "id": 339,
+    "name": "Floor in a Binary Search Tree",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/"
+  },
+  {
+    "id": 351,
+    "name": "Introduction to Graph",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/graph-and-its-representations/"
+  },
+  {
+    "id": 352,
+    "name": "Graph Representation | C++",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/graph-and-its-representations/"
+  },
+  {
+    "id": 353,
+    "name": "Graph Representation | Java",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/graph-and-its-representations/"
+  },
+  {
+    "id": 361,
+    "name": "Cycle Detection in Undirected Graph (bfs)",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/detect-cycle-undirected-graph/"
+  },
+  {
+    "id": 371,
+    "name": "Topo Sort",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/topological-sorting/"
+  },
+  {
+    "id": 372,
+    "name": "Topological sort or Kahn's algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/"
+  },
+  {
+    "id": 378,
+    "name": "Shortest path in undirected graph with unit weights",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/shortest-path-unweighted-graph/"
+  },
+  {
+    "id": 379,
+    "name": "Shortest path in DAG",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/"
+  },
+  {
+    "id": 381,
+    "name": "Why priority Queue is used in Djisktra's Algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/"
+  },
+  {
+    "id": 387,
+    "name": "Minimum multiplications to reach end",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/minimum-steps-to-reach-a-destination-using-bfs/"
+  },
+  {
+    "id": 388,
+    "name": "Bellman Ford Algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/"
+  },
+  {
+    "id": 389,
+    "name": "Floyd warshall algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/"
+  },
+  {
+    "id": 391,
+    "name": "MST theory",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/"
+  },
+  {
+    "id": 392,
+    "name": "Prim's Algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/prims-algorithm-using-priority_queue-stl/"
+  },
+  {
+    "id": 393,
+    "name": "Disjoint Set ",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/disjoint-set-data-structures/"
+  },
+  {
+    "id": 394,
+    "name": "Find the MST weight",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/"
+  },
+  {
+    "id": 402,
+    "name": "Articulation point in graph",
+    "topic": "Graphs [Concepts & Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/"
+  },
+  {
+    "id": 404,
+    "name": "Introduction to DP",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/dynamic-programming/"
+  },
+  {
+    "id": 406,
+    "name": "Frog Jump",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/frog-jump-dp-3/"
+  },
+  {
+    "id": 407,
+    "name": "Frog jump with K distances",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/frog-jump-k-jumps-allowed/"
+  },
+  {
+    "id": 410,
+    "name": "Ninja's training",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/maximum-sum-values-chose-every-ith-ii-element/"
+  },
+  {
+    "id": 415,
+    "name": "Ninja and his Friends",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/chocolate-distribution-problem-set-2/"
+  },
+  {
+    "id": 416,
+    "name": "Subset sum equal to target (DP- 14)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/subset-sum-problem-dp-25/"
+  },
+  {
+    "id": 419,
+    "name": "Count subsets with sum K",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-k/"
+  },
+  {
+    "id": 420,
+    "name": "Count partitions with given difference",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/"
+  },
+  {
+    "id": 425,
+    "name": "Unbounded knapsack",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/"
+  },
+  {
+    "id": 426,
+    "name": "Rod Cutting Problem | (DP - 24)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/cutting-a-rod-dp-13/"
+  },
+  {
+    "id": 429,
+    "name": "Longest common substring",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/longest-common-substring-dp-29/"
+  },
+  {
+    "id": 448,
+    "name": "Longest Bitonic Subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/longest-bitonic-subsequence-dp-15/"
+  },
+  {
+    "id": 450,
+    "name": "Matrix chain multiplication",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+  },
+  {
+    "id": 451,
+    "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "solve_url": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+  },
+  {
+    "id": 460,
+    "name": "Trie Implementation and Advanced Operations",
+    "topic": "Tries",
+    "solve_url": "https://www.geeksforgeeks.org/trie-insert-and-search/"
+  },
+  {
+    "id": 462,
+    "name": "Number of distinct substrings in a string",
+    "topic": "Tries",
+    "solve_url": "https://www.geeksforgeeks.org/count-distinct-substrings-of-a-string-using-suffix-trie/"
+  },
+  {
+    "id": 463,
+    "name": "Bit PreRequisites for TRIE Problems",
+    "topic": "Tries",
+    "solve_url": "https://www.geeksforgeeks.org/bits-manipulation-important-tactics/"
+  },
+  {
+    "id": 468,
+    "name": "Hashing In Strings | Theory",
+    "topic": "Strings",
+    "solve_url": "https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function/"
+  },
+  {
+    "id": 470,
+    "name": "Z function",
+    "topic": "Strings",
+    "solve_url": "https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/"
+  }
+]
