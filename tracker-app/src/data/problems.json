@@ -1,0 +1,3794 @@
+[
+  {
+    "id": 1,
+    "problem_name": "Input Output",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4?t=250"
+  },
+  {
+    "id": 2,
+    "problem_name": "Cpp Basics",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4?t=2415"
+  },
+  {
+    "id": 3,
+    "problem_name": "If ElseIf",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4?t=1259"
+  },
+  {
+    "id": 4,
+    "problem_name": "Switch Case",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4"
+  },
+  {
+    "id": 5,
+    "problem_name": "What are arrays, strings?",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4?t=2415"
+  },
+  {
+    "id": 6,
+    "problem_name": "For loops",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4?t=3096"
+  },
+  {
+    "id": 7,
+    "problem_name": "While loops",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4?t=3459"
+  },
+  {
+    "id": 8,
+    "problem_name": "Functions (Pass by Reference and Value)",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/EAR7De6Goz4?t=3677"
+  },
+  {
+    "id": 9,
+    "problem_name": "Theory with examples",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/FPu9Uld7W-E"
+  },
+  {
+    "id": 10,
+    "problem_name": "Easy and Medium",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 11,
+    "problem_name": "Hard",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 12,
+    "problem_name": "Pattern 1",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 13,
+    "problem_name": "Pattern 2",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 14,
+    "problem_name": "Pattern 3",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 15,
+    "problem_name": "Pattern 4",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 16,
+    "problem_name": "Pattern 5",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 17,
+    "problem_name": "Pattern 6",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 18,
+    "problem_name": "Pattern 7",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 19,
+    "problem_name": "Pattern 8",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 20,
+    "problem_name": "Pattern 9",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 21,
+    "problem_name": "Pattern 10",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 22,
+    "problem_name": "Pattern 11",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 23,
+    "problem_name": "Pattern 12",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 24,
+    "problem_name": "Pattern 13",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 25,
+    "problem_name": "Pattern 14",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 26,
+    "problem_name": "Pattern 15",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 27,
+    "problem_name": "Pattern 16",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 28,
+    "problem_name": "Pattern 17",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 29,
+    "problem_name": "Pattern 18",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 30,
+    "problem_name": "Pattern 19",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 31,
+    "problem_name": "Pattern 20",
+    "topic": "Learn the basics",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 32,
+    "problem_name": "Pattern 21",
+    "topic": "Learn the basics",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 33,
+    "problem_name": "Pattern 22",
+    "topic": "Learn the basics",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
+  },
+  {
+    "id": 34,
+    "problem_name": "STL",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=RRVYpIET_RU"
+  },
+  {
+    "id": 35,
+    "problem_name": "Java Collections",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 36,
+    "problem_name": "Count all Digits of a Number",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug"
+  },
+  {
+    "id": 37,
+    "problem_name": "Reverse a number",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/reverse-integer/",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug?t=930"
+  },
+  {
+    "id": 38,
+    "problem_name": "Palindrome Number",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-number/",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug?t=1230"
+  },
+  {
+    "id": 39,
+    "problem_name": "GCD of Two Numbers",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug?t=2684"
+  },
+  {
+    "id": 40,
+    "problem_name": "Check if the Number is Armstrong",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/armstrong-number/",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug?t=1418"
+  },
+  {
+    "id": 41,
+    "problem_name": "Print all Divisors",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug?t=1580"
+  },
+  {
+    "id": 42,
+    "problem_name": "Check for Prime Number",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug?t=2381"
+  },
+  {
+    "id": 43,
+    "problem_name": "Understand recursion by print something N times",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9"
+  },
+  {
+    "id": 44,
+    "problem_name": "Print name N times using recursion",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2"
+  },
+  {
+    "id": 45,
+    "problem_name": "Print 1 to N using Recursion",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2"
+  },
+  {
+    "id": 46,
+    "problem_name": "Print N to 1 using Recursion",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2"
+  },
+  {
+    "id": 47,
+    "problem_name": "Sum of First N Numbers",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3"
+  },
+  {
+    "id": 48,
+    "problem_name": "Factorial of a given number",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3"
+  },
+  {
+    "id": 49,
+    "problem_name": "Reverse an array",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4"
+  },
+  {
+    "id": 50,
+    "problem_name": "Check if String is Palindrome or Not ",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-palindrome/",
+    "youtube_url": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4"
+  },
+  {
+    "id": 51,
+    "problem_name": "Fibonacci Number",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/fibonacci-number/",
+    "youtube_url": "https://www.youtube.com/watch?v=kvRjNm4rVBE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=5"
+  },
+  {
+    "id": 52,
+    "problem_name": "Basic Hashing",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=KEs5UyBJ39g"
+  },
+  {
+    "id": 53,
+    "problem_name": "Counting Frequencies of Array Elements",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 54,
+    "problem_name": "Highest Occurring Element in an Array",
+    "topic": "Learn the basics",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+    "youtube_url": ""
+  },
+  {
+    "id": 55,
+    "problem_name": "Selection Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/HGk_ypEuS24?t=167"
+  },
+  {
+    "id": 56,
+    "problem_name": "Bubble Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/HGk_ypEuS24?t=1061"
+  },
+  {
+    "id": 57,
+    "problem_name": "Insertion Sorting",
+    "topic": "Learn Important Sorting Techniques",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/HGk_ypEuS24?t=1900"
+  },
+  {
+    "id": 58,
+    "problem_name": "Merge Sorting",
+    "topic": "Learn Important Sorting Techniques",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/ogjf7ORKfd8"
+  },
+  {
+    "id": 59,
+    "problem_name": "Recursive Bubble Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 60,
+    "problem_name": "Recursive Insertion Sort",
+    "topic": "Learn Important Sorting Techniques",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 61,
+    "problem_name": "Quick Sorting",
+    "topic": "Learn Important Sorting Techniques",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/WIrA4YexLRQ"
+  },
+  {
+    "id": 62,
+    "problem_name": "Largest Element ",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/37E9ckMDdTk?t=526"
+  },
+  {
+    "id": 63,
+    "problem_name": "Second Largest Element",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/37E9ckMDdTk?t=810"
+  },
+  {
+    "id": 64,
+    "problem_name": "Check if the Array is Sorted II",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.",
+    "youtube_url": "https://youtu.be/37E9ckMDdTk?t=17224"
+  },
+  {
+    "id": 65,
+    "problem_name": "Remove duplicates from Sorted array",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.",
+    "youtube_url": "https://youtu.be/37E9ckMDdTk?t=1887"
+  },
+  {
+    "id": 66,
+    "problem_name": "Left Rotate Array by One",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/rotate-array/",
+    "youtube_url": "https://youtu.be/wvcQg43_V8U?t=61"
+  },
+  {
+    "id": 67,
+    "problem_name": "Left Rotate Array by K Places",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/rotate-array/",
+    "youtube_url": "https://youtu.be/wvcQg43_V8U?t=485"
+  },
+  {
+    "id": 68,
+    "problem_name": "Move Zeros to End",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/move-zeroes/",
+    "youtube_url": "https://youtu.be/wvcQg43_V8U?t=1633"
+  },
+  {
+    "id": 69,
+    "problem_name": "Linear Search",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/wvcQg43_V8U?t=2465"
+  },
+  {
+    "id": 70,
+    "problem_name": "Union of two sorted arrays",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/wvcQg43_V8U?t=2584"
+  },
+  {
+    "id": 71,
+    "problem_name": "Find missing number",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 72,
+    "problem_name": "Maximum Consecutive Ones",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/max-consecutive-ones/",
+    "youtube_url": "https://youtu.be/bYWLJb3vCWY?t=1124"
+  },
+  {
+    "id": 73,
+    "problem_name": "Find the number that appears once, and other numbers twice.",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/single-number/",
+    "youtube_url": "https://youtu.be/bYWLJb3vCWY?t=1369"
+  },
+  {
+    "id": 74,
+    "problem_name": "Longest subarray with given sum K(positives)",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=frf7qxiN2qU&feature=youtu.be"
+  },
+  {
+    "id": 75,
+    "problem_name": "Longest subarray with sum K",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/frf7qxiN2qU"
+  },
+  {
+    "id": 76,
+    "problem_name": "Two Sum",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/two-sum/",
+    "youtube_url": "https://youtu.be/UXDSeD9mN-k"
+  },
+  {
+    "id": 77,
+    "problem_name": "Sort an array of 0's 1's and 2's",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/sort-colors/",
+    "youtube_url": "https://youtu.be/tp8JIuCXBaU"
+  },
+  {
+    "id": 78,
+    "problem_name": "Majority Element-I",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/majority-element/",
+    "youtube_url": "https://youtu.be/nP_ns3uSh80"
+  },
+  {
+    "id": 79,
+    "problem_name": "Kadane's Algorithm",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-subarray/",
+    "youtube_url": "https://youtu.be/AHZpyENo7k4?si=QJpof4R1hHokm1hw"
+  },
+  {
+    "id": 80,
+    "problem_name": "Print subarray with maximum subarray sum (extended version of above problem)",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/AHZpyENo7k4"
+  },
+  {
+    "id": 81,
+    "problem_name": "Stock Buy and Sell",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "youtube_url": "https://youtu.be/excAOvwF_Wk"
+  },
+  {
+    "id": 82,
+    "problem_name": "Rearrange array elements by sign",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+    "youtube_url": "https://youtu.be/h4aBagy4Uok"
+  },
+  {
+    "id": 83,
+    "problem_name": "Next Permutation",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/next-permutation/",
+    "youtube_url": "https://youtu.be/JDOXKqF60RQ"
+  },
+  {
+    "id": 84,
+    "problem_name": "Leaders in an Array",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/cHrH9CQ8pmY"
+  },
+  {
+    "id": 85,
+    "problem_name": "Longest Consecutive Sequence in an Array",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-consecutive-sequence/solution/",
+    "youtube_url": "https://youtu.be/oO5uLE7EUlM"
+  },
+  {
+    "id": 86,
+    "problem_name": "Set Matrix Zeroes",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "youtube_url": "https://youtu.be/N0MgLvceX7M"
+  },
+  {
+    "id": 87,
+    "problem_name": "Rotate matrix by 90 degrees",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/rotate-image/",
+    "youtube_url": "https://youtu.be/Z0R2u6gd3GU"
+  },
+  {
+    "id": 88,
+    "problem_name": "Print the matrix in spiral manner",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/spiral-matrix/",
+    "youtube_url": "https://youtu.be/3Zv-s9UUrFM"
+  },
+  {
+    "id": 89,
+    "problem_name": "Count subarrays with given sum",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "youtube_url": "https://www.youtube.com/watch?v=xvNwoz-ufXA&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=32"
+  },
+  {
+    "id": 90,
+    "problem_name": "Pascal's Triangle I",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/pascals-triangle/",
+    "youtube_url": "https://youtu.be/bR7mQgwQ_o8"
+  },
+  {
+    "id": 91,
+    "problem_name": "Majority Element-II",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/majority-element-ii/",
+    "youtube_url": "https://youtu.be/vwZj1K0e9U8"
+  },
+  {
+    "id": 92,
+    "problem_name": "3 Sum",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/3sum/",
+    "youtube_url": "https://youtu.be/DhFh8Kw7ymk"
+  },
+  {
+    "id": 93,
+    "problem_name": "4 Sum",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/4sum/",
+    "youtube_url": "https://youtu.be/eD95WRfh81c"
+  },
+  {
+    "id": 94,
+    "problem_name": "Largest Subarray with Sum 0",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=xmguZ6GbatA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=23"
+  },
+  {
+    "id": 95,
+    "problem_name": "Count subarrays with given xor K",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/eZr-6p0B7ME"
+  },
+  {
+    "id": 96,
+    "problem_name": "Merge Overlapping Subintervals",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/merge-intervals/",
+    "youtube_url": "https://youtu.be/IexN60k62jo"
+  },
+  {
+    "id": 97,
+    "problem_name": "Merge two sorted arrays without extra space",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/merge-sorted-array/",
+    "youtube_url": "https://youtu.be/n7uwj04E0I4"
+  },
+  {
+    "id": 98,
+    "problem_name": "Find the repeating and missing number",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/2D0D8HE6uak"
+  },
+  {
+    "id": 99,
+    "problem_name": "Count Inversions",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/AseUmwVNaoY"
+  },
+  {
+    "id": 100,
+    "problem_name": "Reverse Pairs",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/reverse-pairs/",
+    "youtube_url": "https://youtu.be/0e4bZaP3MDI"
+  },
+  {
+    "id": 101,
+    "problem_name": "Maximum Product Subarray in an Array",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "youtube_url": ""
+  },
+  {
+    "id": 102,
+    "problem_name": "Search X in sorted array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-search/",
+    "youtube_url": "https://youtu.be/MHf6awe89xw"
+  },
+  {
+    "id": 103,
+    "problem_name": "Lower Bound ",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/6zhGS79oQ4k"
+  },
+  {
+    "id": 104,
+    "problem_name": "Upper Bound",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/6zhGS79oQ4k"
+  },
+  {
+    "id": 105,
+    "problem_name": "Search insert position",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/search-insert-position/#:~:text=Search%20Insert%20Position%20%2D%20LeetCode&text=Given%20a%20sorted%20array%20of,(log%20n)%20runtime%20complexity.",
+    "youtube_url": "https://youtu.be/6zhGS79oQ4k"
+  },
+  {
+    "id": 106,
+    "problem_name": "Floor and Ceil in Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=6zhGS79oQ4k&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=3"
+  },
+  {
+    "id": 107,
+    "problem_name": "First and last occurrence",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "youtube_url": "https://youtu.be/hjR1IYVx9lY"
+  },
+  {
+    "id": 108,
+    "problem_name": "Count Occurrences in a Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/hjR1IYVx9lY"
+  },
+  {
+    "id": 109,
+    "problem_name": "Search in rotated sorted array-I",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "youtube_url": "https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64"
+  },
+  {
+    "id": 110,
+    "problem_name": "Search in rotated sorted array-II",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+    "youtube_url": "https://youtu.be/w2G2W8l__pc"
+  },
+  {
+    "id": 111,
+    "problem_name": "Find minimum in Rotated Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "youtube_url": "https://youtu.be/nhEMDKMB44g"
+  },
+  {
+    "id": 112,
+    "problem_name": "Find out how many times the array is rotated",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/jtSiWTPLwd0"
+  },
+  {
+    "id": 113,
+    "problem_name": "Single element in a Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "youtube_url": "https://youtu.be/AZOmHuHadxQ"
+  },
+  {
+    "id": 114,
+    "problem_name": "Find peak element",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.",
+    "youtube_url": "https://youtu.be/cXxmbemS6XM"
+  },
+  {
+    "id": 115,
+    "problem_name": "Find square root of a number",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Bsv3FPUX_BA"
+  },
+  {
+    "id": 116,
+    "problem_name": "Find Nth root of a number",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=WjpswYrS2nY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62"
+  },
+  {
+    "id": 117,
+    "problem_name": "Koko eating bananas",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "youtube_url": "https://youtu.be/qyfekrNni90"
+  },
+  {
+    "id": 118,
+    "problem_name": "Minimum days to make M bouquets",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+    "youtube_url": "https://youtu.be/TXAuxeYBTdg"
+  },
+  {
+    "id": 119,
+    "problem_name": "Find the smallest divisor",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+    "youtube_url": "https://youtu.be/UvBKTVaG6U8"
+  },
+  {
+    "id": 120,
+    "problem_name": "Capacity to Ship Packages Within D Days",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "youtube_url": "https://youtu.be/MG-Ac4TAvTY"
+  },
+  {
+    "id": 121,
+    "problem_name": "Kth Missing Positive Number",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.",
+    "youtube_url": "https://youtu.be/uZ0N_hZpyps"
+  },
+  {
+    "id": 122,
+    "problem_name": "Aggressive Cows",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/R_Mfw4ew-Vo"
+  },
+  {
+    "id": 123,
+    "problem_name": "Book Allocation Problem",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69"
+  },
+  {
+    "id": 124,
+    "problem_name": "Split array - largest sum",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/split-array-largest-sum/",
+    "youtube_url": "https://www.youtube.com/watch?v=thUd_WJn6wk&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=20"
+  },
+  {
+    "id": 125,
+    "problem_name": "Painter's Partition",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=thUd_WJn6wk&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=20"
+  },
+  {
+    "id": 126,
+    "problem_name": "Minimize Max Distance to Gas Station",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
+    "youtube_url": "https://www.youtube.com/watch?v=kMSBvlZ-_HA&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=21"
+  },
+  {
+    "id": 127,
+    "problem_name": "Median of 2 sorted arrays",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "youtube_url": "https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65"
+  },
+  {
+    "id": 128,
+    "problem_name": "Kth element of 2 sorted arrays",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/D1oDwWCq50g"
+  },
+  {
+    "id": 129,
+    "problem_name": "Find row with maximum 1's",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/SCz-1TtYxDI"
+  },
+  {
+    "id": 130,
+    "problem_name": "Search in a 2D matrix",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "youtube_url": "https://youtu.be/ZYpYur0znng"
+  },
+  {
+    "id": 131,
+    "problem_name": "Search in 2D matrix - II",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "youtube_url": "https://youtu.be/9ZbB397jU4k"
+  },
+  {
+    "id": 132,
+    "problem_name": "Find Peak Element - II",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-a-peak-element-ii/",
+    "youtube_url": "https://youtu.be/nGGp5XBzC4g?si=WCop5C6Azj5gAELH"
+  },
+  {
+    "id": 133,
+    "problem_name": "Matrix Median",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Q9wXgdxJq48?si=ScI_0uzJh7yg8nrX"
+  },
+  {
+    "id": 134,
+    "problem_name": "Remove Outermost Parentheses",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/remove-outermost-parentheses/",
+    "youtube_url": ""
+  },
+  {
+    "id": 135,
+    "problem_name": "Reverse words in a given string / Palindrome Check",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "youtube_url": ""
+  },
+  {
+    "id": 136,
+    "problem_name": "Largest Odd Number in a String",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/largest-odd-number-in-string/",
+    "youtube_url": ""
+  },
+  {
+    "id": 137,
+    "problem_name": "Longest Common Prefix",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/longest-common-prefix/",
+    "youtube_url": ""
+  },
+  {
+    "id": 138,
+    "problem_name": "Isomorphic String",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/isomorphic-strings/",
+    "youtube_url": ""
+  },
+  {
+    "id": 139,
+    "problem_name": "Rotate String",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/rotate-string/",
+    "youtube_url": ""
+  },
+  {
+    "id": 140,
+    "problem_name": "Check if two strings are anagram of each other",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&text=Constraints%3A,.length%20%3C%3D%205%20*%2010",
+    "youtube_url": ""
+  },
+  {
+    "id": 141,
+    "problem_name": "Sort Characters by Frequency",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "youtube_url": ""
+  },
+  {
+    "id": 142,
+    "problem_name": "Maximum Nesting Depth of the Parentheses",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+    "youtube_url": ""
+  },
+  {
+    "id": 143,
+    "problem_name": "Roman to Integer",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/roman-to-integer/",
+    "youtube_url": ""
+  },
+  {
+    "id": 144,
+    "problem_name": "String to Integer (atoi)",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "youtube_url": ""
+  },
+  {
+    "id": 145,
+    "problem_name": "Count Number of Substrings",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 146,
+    "problem_name": "Longest Palindromic Substring",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "youtube_url": ""
+  },
+  {
+    "id": 147,
+    "problem_name": "Sum of Beauty of All Substrings",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+    "youtube_url": ""
+  },
+  {
+    "id": 148,
+    "problem_name": "Reverse every word in a string",
+    "topic": "Strings [Basic and Medium]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "youtube_url": ""
+  },
+  {
+    "id": 149,
+    "problem_name": "Introduction to Singly LinkedList",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Nq7ok-OyEpg?si=9PR1o8OPRWil7fRA"
+  },
+  {
+    "id": 150,
+    "problem_name": "Insertion at the head of Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/VaECK03Dz-g?si=vHSwdf9jhE05adKM&t=1934"
+  },
+  {
+    "id": 151,
+    "problem_name": "Deletion of the head of LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+    "youtube_url": "https://youtu.be/VaECK03Dz-g?si=CRaBHbOo2bHFbOT5"
+  },
+  {
+    "id": 152,
+    "problem_name": "Find the length of the Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Nq7ok-OyEpg?si=xqQbukLfo2oZ6C6s&t=2240"
+  },
+  {
+    "id": 153,
+    "problem_name": "Search in Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Nq7ok-OyEpg?si=WNXcIaXZ_B6cNq0s&t=2524"
+  },
+  {
+    "id": 154,
+    "problem_name": "Introduction to Doubly LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/0eKMU10uEDI?si=uDnoj_C5ghEpNLvP"
+  },
+  {
+    "id": 155,
+    "problem_name": "Insert node before head in Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/0eKMU10uEDI?si=J5a0pQTosimcO_aA&t=2684"
+  },
+  {
+    "id": 156,
+    "problem_name": "Delete head of Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/0eKMU10uEDI?si=sE7jqrW46lfRHVLd&t=853"
+  },
+  {
+    "id": 157,
+    "problem_name": "Reverse a Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/u3WUW2qe6ww?si=96Wwlju72IvmzkxE"
+  },
+  {
+    "id": 158,
+    "problem_name": "Middle of a LinkedList [TortoiseHare Method]",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "youtube_url": "https://youtu.be/7LjQ57RqgEc?si=ir_rRDio38rhamU_"
+  },
+  {
+    "id": 159,
+    "problem_name": "Reverse a LinkedList [Iterative]",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/reverse-linked-list/",
+    "youtube_url": "https://youtu.be/D2vI2DNJGd8?si=RCaLSx01qR21IBdh"
+  },
+  {
+    "id": 160,
+    "problem_name": "Reverse a LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/reverse-linked-list/",
+    "youtube_url": "https://youtu.be/D2vI2DNJGd8?si=RCaLSx01qR21IBdh"
+  },
+  {
+    "id": 161,
+    "problem_name": "Detect a loop in LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle/",
+    "youtube_url": "https://youtu.be/wiOo4DC5GGA?si=zagt6O6tFXc4_3cx"
+  },
+  {
+    "id": 162,
+    "problem_name": "Find the starting point in LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "youtube_url": "https://youtu.be/2Kd0KKmmHFc?si=7UreDPRjRvapeVB0"
+  },
+  {
+    "id": 163,
+    "problem_name": "Length of loop in LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/I4g1qbkTPus?si=ONktpqewvx57T8pF"
+  },
+  {
+    "id": 164,
+    "problem_name": "Check if LL is palindrome or not",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-linked-list/",
+    "youtube_url": "https://youtu.be/lRY_G-u_8jk?si=BpM8hRYvXSYyjl-G"
+  },
+  {
+    "id": 165,
+    "problem_name": "Segregate odd and even nodes in Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/odd-even-linked-list/",
+    "youtube_url": "https://youtu.be/qf6qp7GzD5Q?si=JozAyXUdT8EJMSCQ"
+  },
+  {
+    "id": 166,
+    "problem_name": "Remove Nth node from the back of the LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "youtube_url": "https://youtu.be/3kMKYQ2wNIU?si=DtFDnPU7z9HMz_GM"
+  },
+  {
+    "id": 167,
+    "problem_name": "Delete the middle node in LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/#:~:text=You%20are%20given%20the%20head,than%20or%20equal%20to%20x%20.",
+    "youtube_url": "https://youtu.be/ePpV-_pfOeI?si=Au9GsZkVO57j6SiN"
+  },
+  {
+    "id": 168,
+    "problem_name": "Sort LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/sort-list/",
+    "youtube_url": "https://youtu.be/8ocB7a_c-Cc?si=Gv-Y8q8-WyARoV35"
+  },
+  {
+    "id": 169,
+    "problem_name": "Sort a Linked List of 0's 1's and 2's",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/gRII7LhdJWc?si=l3qRC7w3NhY7OAqw"
+  },
+  {
+    "id": 170,
+    "problem_name": "Find the intersection point of Y LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "youtube_url": "https://youtu.be/0DYoPz2Tpt4?si=L-uJs5yXUxj4VJM2"
+  },
+  {
+    "id": 171,
+    "problem_name": "Add one to a number represented by LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/aXQWhbvT3w0?si=uRgU9S4r5cVmnUy7"
+  },
+  {
+    "id": 172,
+    "problem_name": "Add two numbers in Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/add-two-numbers/",
+    "youtube_url": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32"
+  },
+  {
+    "id": 173,
+    "problem_name": "Delete all occurrences of a key in DLL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Mh0NH_SD92k?si=tCYshBRi1upMqSVz"
+  },
+  {
+    "id": 174,
+    "problem_name": "Find Pairs with Given Sum in Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/YitR4dQsddE?si=iZAC259hdngV_OxC"
+  },
+  {
+    "id": 175,
+    "problem_name": "Remove duplicates from sorted DLL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/YJKVTnOJXSY?si=AsZoNUoewetsBjr0"
+  },
+  {
+    "id": 176,
+    "problem_name": "Reverse LL in group of given size K",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "youtube_url": "https://youtu.be/lIar1skcQYI?si=_jFghHKX4eaK36a1"
+  },
+  {
+    "id": 177,
+    "problem_name": "Rotate a LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/rotate-list/description/",
+    "youtube_url": "https://youtu.be/uT7YI7XbTY8?si=ZaChW3a68c_v54Is"
+  },
+  {
+    "id": 178,
+    "problem_name": "Flattening of LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/ykelywHJWLg?si=InMg9MmTHzY22NSR"
+  },
+  {
+    "id": 179,
+    "problem_name": "Clone a LL with random and next pointer",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "youtube_url": "https://youtu.be/q570bKdrnlw?si=epZtpWvtNwuTf23o"
+  },
+  {
+    "id": 180,
+    "problem_name": "Recursive Implementation of atoi()",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "youtube_url": ""
+  },
+  {
+    "id": 181,
+    "problem_name": "Pow(x, n)",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/powx-n/",
+    "youtube_url": "https://youtu.be/l0YC3876qxg"
+  },
+  {
+    "id": 182,
+    "problem_name": "Count Good Numbers",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/count-good-numbers/",
+    "youtube_url": ""
+  },
+  {
+    "id": 183,
+    "problem_name": "Sort a stack using recursion",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 184,
+    "problem_name": "Reverse a Stack",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 185,
+    "problem_name": "Generate Binary Strings Without Consecutive 1s",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 186,
+    "problem_name": "Generate Parentheses",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/generate-parentheses/",
+    "youtube_url": ""
+  },
+  {
+    "id": 187,
+    "problem_name": "Power Set",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=b7AYbpM5YrE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=67"
+  },
+  {
+    "id": 188,
+    "problem_name": "Learn All Patterns of Subsequences (Theory)",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7"
+  },
+  {
+    "id": 189,
+    "problem_name": "Count all subsequences with sum K",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 190,
+    "problem_name": "Check if there exists a subsequence with sum K",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 191,
+    "problem_name": "Combination Sum",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum/",
+    "youtube_url": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49"
+  },
+  {
+    "id": 192,
+    "problem_name": "Combination Sum II",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum-ii/",
+    "youtube_url": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50"
+  },
+  {
+    "id": 193,
+    "problem_name": "Subsets I",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52"
+  },
+  {
+    "id": 194,
+    "problem_name": "Subsets II",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subsets-ii/",
+    "youtube_url": "https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53"
+  },
+  {
+    "id": 195,
+    "problem_name": "Combination Sum III",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum-iii/",
+    "youtube_url": ""
+  },
+  {
+    "id": 196,
+    "problem_name": "Letter Combinations of a Phone Number",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "youtube_url": ""
+  },
+  {
+    "id": 197,
+    "problem_name": "Palindrome partitioning",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/_H8V5hJUGd0"
+  },
+  {
+    "id": 198,
+    "problem_name": "Word Search",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/word-search/",
+    "youtube_url": ""
+  },
+  {
+    "id": 199,
+    "problem_name": "N Queen",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/n-queens/",
+    "youtube_url": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57"
+  },
+  {
+    "id": 200,
+    "problem_name": "Rat in a Maze",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60"
+  },
+  {
+    "id": 201,
+    "problem_name": "Word Break",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 202,
+    "problem_name": "M Coloring Problem",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59"
+  },
+  {
+    "id": 203,
+    "problem_name": "Sudoku Solver",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/sudoku-solver/",
+    "youtube_url": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58"
+  },
+  {
+    "id": 204,
+    "problem_name": "Expression Add Operators",
+    "topic": "Recursion [PatternWise]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/expression-add-operators/",
+    "youtube_url": ""
+  },
+  {
+    "id": 205,
+    "problem_name": "Introduction to Bits and Tricks",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/qQd-ViW7bfk?si=QtdNaRhHmZb08Mr8"
+  },
+  {
+    "id": 206,
+    "problem_name": "Check if the i-th bit is Set or Not",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
+  },
+  {
+    "id": 207,
+    "problem_name": "Check if a Number is Odd or Not",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
+  },
+  {
+    "id": 208,
+    "problem_name": "Check if a Number is Power of 2 or Not",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/power-of-two/",
+    "youtube_url": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
+  },
+  {
+    "id": 209,
+    "problem_name": "Count the Number of Set Bits",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
+  },
+  {
+    "id": 210,
+    "problem_name": "Set/Unset the rightmost unset bit",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
+  },
+  {
+    "id": 211,
+    "problem_name": "Swap Two Numbers",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
+  },
+  {
+    "id": 212,
+    "problem_name": "Divide two numbers without multiplication and division",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/divide-two-integers/",
+    "youtube_url": "https://youtu.be/pBD4B1tzgVc?si=G9c5pEE-RrzeU6sz"
+  },
+  {
+    "id": 213,
+    "problem_name": "Minimum Bit Flips to Convert Number",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+    "youtube_url": "https://youtu.be/OOdrmcfZXd8?si=rnkRVz1UiVBKWC69"
+  },
+  {
+    "id": 214,
+    "problem_name": "Single Number - I",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/single-number/",
+    "youtube_url": "https://youtu.be/bYWLJb3vCWY?t=1369"
+  },
+  {
+    "id": 215,
+    "problem_name": "Power Set Bit Manipulation",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subsets/",
+    "youtube_url": "https://youtu.be/LqKaUv1G3_I?si=UXU_T5OsHiokPRvP"
+  },
+  {
+    "id": 216,
+    "problem_name": "XOR of numbers in a given range",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/WqGb7159h7Q?si=uGUEbNUUaIN_6Vvr"
+  },
+  {
+    "id": 217,
+    "problem_name": "Single Number - III",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/UA5JnV1J2sI?si=VFBRJyb3boZvx_r1"
+  },
+  {
+    "id": 218,
+    "problem_name": "Print Prime Factors of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/LT7XhVdeRyg?si=6HkjQokJRPTFai21"
+  },
+  {
+    "id": 219,
+    "problem_name": "Divisors of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/1xNbjMdbjug?t=1580"
+  },
+  {
+    "id": 220,
+    "problem_name": "Count primes in range L to R",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/count-primes/",
+    "youtube_url": "https://youtu.be/g5Fuxn_AvSk?si=fv6Q-Po7wrMW0a5n"
+  },
+  {
+    "id": 221,
+    "problem_name": "Prime factorisation of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/LT7XhVdeRyg?si=6HkjQokJRPTFai21"
+  },
+  {
+    "id": 222,
+    "problem_name": "Pow(x,n)",
+    "topic": "Bit Manipulation [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/powx-n/",
+    "youtube_url": "https://youtu.be/l0YC3876qxg"
+  },
+  {
+    "id": 223,
+    "problem_name": "Implement Stack using Arrays",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
+  },
+  {
+    "id": 224,
+    "problem_name": "Implement Queue using Arrays",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
+  },
+  {
+    "id": 225,
+    "problem_name": "Implement Stack using Queue",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "youtube_url": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
+  },
+  {
+    "id": 226,
+    "problem_name": "Implement Queue using Stack",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "youtube_url": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
+  },
+  {
+    "id": 227,
+    "problem_name": "Implement stack using Linkedlist",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
+  },
+  {
+    "id": 228,
+    "problem_name": "Implement queue using Linkedlist",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
+  },
+  {
+    "id": 229,
+    "problem_name": "Balanced Paranthesis",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-parentheses/",
+    "youtube_url": "https://youtu.be/xwjS0iZhw4I?si=UoyKpFn4Q3nf5h2R"
+  },
+  {
+    "id": 230,
+    "problem_name": "Implement Min Stack",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/min-stack/",
+    "youtube_url": "https://youtu.be/NdDIaH91P0g?si=4_Jbsq5trFvfSdUY"
+  },
+  {
+    "id": 231,
+    "problem_name": "Infix to Postfix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh"
+  },
+  {
+    "id": 232,
+    "problem_name": "Prefix to Infix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh"
+  },
+  {
+    "id": 233,
+    "problem_name": "Prefix to Postfix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
+  },
+  {
+    "id": 234,
+    "problem_name": "Postfix to Prefix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
+  },
+  {
+    "id": 235,
+    "problem_name": "Postfix to Infix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
+  },
+  {
+    "id": 236,
+    "problem_name": "Infix to Prefix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
+  },
+  {
+    "id": 237,
+    "problem_name": "Next Greater Element",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/next-greater-element-i/",
+    "youtube_url": "https://youtu.be/e7XQLtOQM3I?si=QdcHpTtx6gAHsext"
+  },
+  {
+    "id": 238,
+    "problem_name": "Next Greater Element - 2",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/next-greater-element-ii/",
+    "youtube_url": "https://youtu.be/7PrncD7v9YQ?si=UkBc7eVy9HGlBpeW"
+  },
+  {
+    "id": 239,
+    "problem_name": "Next Smaller Element",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 240,
+    "problem_name": "Number of Greater Elements to the Right",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 241,
+    "problem_name": "Trapping Rainwater",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/",
+    "youtube_url": "https://youtu.be/1_5VuquLbXg?si=NFG6df318_6OtGvg"
+  },
+  {
+    "id": 242,
+    "problem_name": "Sum of Subarray Minimums",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+    "youtube_url": "https://youtu.be/v0e8p9JCgRc?si=XAU7ekECgS5nboRw"
+  },
+  {
+    "id": 243,
+    "problem_name": "Asteroid Collision",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/asteroid-collision/",
+    "youtube_url": "https://youtu.be/_eYGqw_VDR4?si=YyxibcHq800RqgIQ"
+  },
+  {
+    "id": 244,
+    "problem_name": "Sum of Subarray Ranges",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+    "youtube_url": "https://youtu.be/gIrMptNPf5M?si=Q_GHuBvzZVs27X_U"
+  },
+  {
+    "id": 245,
+    "problem_name": "Remove K Digits",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/remove-k-digits/",
+    "youtube_url": "https://youtu.be/jmbuRzYPGrg?si=WN387gwQ7aXWkUao"
+  },
+  {
+    "id": 246,
+    "problem_name": "Largest rectangle in a histogram",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "youtube_url": "https://youtu.be/Bzat9vgD0fs?si=DiBlLejXcr6EJoyB"
+  },
+  {
+    "id": 247,
+    "problem_name": "Maximum Rectangles",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/maximal-rectangle/",
+    "youtube_url": "https://youtu.be/tOylVCugy9k"
+  },
+  {
+    "id": 248,
+    "problem_name": "Sliding Window Maximum",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "youtube_url": "https://youtu.be/NwBvene4Imo?si=eU1PY-bcQfk5wdog"
+  },
+  {
+    "id": 249,
+    "problem_name": "Stock span problem",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/online-stock-span/",
+    "youtube_url": "https://youtu.be/eay-zoSRkVc?si=deNNe5i38BOAntha"
+  },
+  {
+    "id": 250,
+    "problem_name": "Celebrity Problem",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
+    "youtube_url": "https://youtu.be/cEadsbTeze4?si=olXYfOs7l-SEn2zl"
+  },
+  {
+    "id": 251,
+    "problem_name": "LRU Cache",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 252,
+    "problem_name": "LFU Cache",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/lfu-cache/",
+    "youtube_url": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79"
+  },
+  {
+    "id": 253,
+    "problem_name": "Longest Substring Without Repeating Characters",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "youtube_url": "https://youtu.be/-zSxTJkcdAo?si=I2zfR-vlDMg0zU9z"
+  },
+  {
+    "id": 254,
+    "problem_name": " Max Consecutive Ones III",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "youtube_url": "https://youtu.be/3E4JBHSLpYk?si=SoOW64pP6otEKxBw"
+  },
+  {
+    "id": 255,
+    "problem_name": " Fruit Into Baskets",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/e3bs0uA1NhQ?si=gR8pO62u-nJeFAXk"
+  },
+  {
+    "id": 256,
+    "problem_name": "Longest Repeating Character Replacement",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "youtube_url": "https://youtu.be/_eNhaDCr6P0?si=pBWcEjozF5poom0p"
+  },
+  {
+    "id": 257,
+    "problem_name": "Binary Subarrays With Sum",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+    "youtube_url": "https://youtu.be/XnMdNUkX6VM?si=Nyt8EveeLUg8lmty"
+  },
+  {
+    "id": 258,
+    "problem_name": "Count number of Nice subarrays",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+    "youtube_url": "https://youtu.be/j_QOv9OT9Og?si=Oq5-5hyFkzVSOZpP"
+  },
+  {
+    "id": 259,
+    "problem_name": "Number of Substrings Containing All Three Characters",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+    "youtube_url": "https://youtu.be/xtqN4qlgr8s?si=kuaLHVOLXhh5Z2tW"
+  },
+  {
+    "id": 260,
+    "problem_name": "Maximum Points You Can Obtain from Cards ",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+    "youtube_url": "https://youtu.be/pBWCOCS636U?si=-X64rY67noxvOwrG"
+  },
+  {
+    "id": 261,
+    "problem_name": "Longest Substring With At Most K Distinct Characters",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+    "youtube_url": "https://youtu.be/teM9ZsVRQyc?si=Kh0_u6aCkkBU3Q33"
+  },
+  {
+    "id": 262,
+    "problem_name": "Subarrays with K Different Integers",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+    "youtube_url": "https://youtu.be/7wYGbV_LsX4?si=KWa48RgLDCvdNqRb"
+  },
+  {
+    "id": 263,
+    "problem_name": "Minimum Window Substring ",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimum-window-substring/",
+    "youtube_url": "https://youtu.be/WJaij9ffOIY?si=-xnsWIH84zWU0ICd"
+  },
+  {
+    "id": 264,
+    "problem_name": "Minimum Window Subsequence",
+    "topic": "Sliding Window & Two Pointer Combined Problems",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimum-window-subsequence/",
+    "youtube_url": ""
+  },
+  {
+    "id": 265,
+    "problem_name": "Kth smallest element in an array [use priority queue]",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 266,
+    "problem_name": "Heaps (Theory Video)",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 267,
+    "problem_name": "Implement Min Heap",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 268,
+    "problem_name": "Check if an array represents a min heap ",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 269,
+    "problem_name": "Convert Min Heap to Max Heap",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 270,
+    "problem_name": "K-th Largest element in an array",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 271,
+    "problem_name": "Sort K sorted array",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 272,
+    "problem_name": "Merge K sorted Lists",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "youtube_url": ""
+  },
+  {
+    "id": 273,
+    "problem_name": "Replace Elements by Their Rank",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 274,
+    "problem_name": "Task Scheduler",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/task-scheduler/",
+    "youtube_url": ""
+  },
+  {
+    "id": 275,
+    "problem_name": "Hand of Straights",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/hand-of-straights/",
+    "youtube_url": ""
+  },
+  {
+    "id": 276,
+    "problem_name": "Design Twitter",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/design-twitter/",
+    "youtube_url": ""
+  },
+  {
+    "id": 277,
+    "problem_name": "Minimum Cost to Connect Sticks",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 278,
+    "problem_name": "Kth largest element in a stream of running integers",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/#:~:text=Implement%20KthLargest%20class%3A,largest%20element%20in%20the%20stream.",
+    "youtube_url": ""
+  },
+  {
+    "id": 279,
+    "problem_name": "Maximum Sum Combination",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 280,
+    "problem_name": "Find Median from Data Stream",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "youtube_url": ""
+  },
+  {
+    "id": 281,
+    "problem_name": "Top K Frequent Elements",
+    "topic": "Heaps [Learning, Medium, Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "youtube_url": ""
+  },
+  {
+    "id": 282,
+    "problem_name": "Assign Cookies",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/assign-cookies/",
+    "youtube_url": "https://youtu.be/DIX2p7vb9co?si=GofAIDimue-Av0Fi"
+  },
+  {
+    "id": 283,
+    "problem_name": "Fractional Knapsack",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/1ibsQrnuEEg?si=8R2By3wpHo0zZVHE"
+  },
+  {
+    "id": 284,
+    "problem_name": "Lemonade Change",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/lemonade-change/",
+    "youtube_url": "https://youtu.be/n_tmibEhO6Q?si=q1NW8MfPy0QU6fIl"
+  },
+  {
+    "id": 285,
+    "problem_name": "Valid Paranthesis Checker",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/valid-parenthesis-string/",
+    "youtube_url": "https://youtu.be/cHT6sG_hUZI?si=XRHeyh7jOaLaTy3g"
+  },
+  {
+    "id": 286,
+    "problem_name": "N meetings in one room",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/mKfhTotEguk?si=2RELeq18mpmIIN3Q"
+  },
+  {
+    "id": 287,
+    "problem_name": "Jump Game - I",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/jump-game/",
+    "youtube_url": "https://youtu.be/tZAa_jJ3SwQ?si=voKd7n9VTLDRRNzJ"
+  },
+  {
+    "id": 288,
+    "problem_name": "Jump Game II",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/jump-game-ii/",
+    "youtube_url": "https://youtu.be/7SBVnw7GSTk?si=9uUouBELh9K3m2jZ"
+  },
+  {
+    "id": 289,
+    "problem_name": "Minimum number of platforms required for a railway",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/AsGzwR_FWok?si=165acXU_dtqOHuo9"
+  },
+  {
+    "id": 290,
+    "problem_name": "Job sequencing Problem",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/QbwltemZbRg?si=wvcemJ5BLPlTRmkG"
+  },
+  {
+    "id": 291,
+    "problem_name": "Candy",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/candy/",
+    "youtube_url": "https://youtu.be/IIqVFvKE6RY?si=EjmuXZJNLQLUkEd7"
+  },
+  {
+    "id": 292,
+    "problem_name": "Shortest Job First",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/3-QbX1iDbXs?si=IH8QZUblr01F7UoQ"
+  },
+  {
+    "id": 293,
+    "problem_name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 294,
+    "problem_name": "Insert Interval",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/insert-interval/",
+    "youtube_url": "https://youtu.be/xxRE-46OCC8?si=a7aPuIw16zDx2lAa"
+  },
+  {
+    "id": 295,
+    "problem_name": "Merge Intervals",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/merge-intervals/",
+    "youtube_url": "https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6"
+  },
+  {
+    "id": 296,
+    "problem_name": "Non-overlapping Intervals",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "youtube_url": "https://youtu.be/HDHQ8lAWakY?si=JVtLqboGdpUTOVjf"
+  },
+  {
+    "id": 297,
+    "problem_name": "Introduction to Trees",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/_ANrF3FJm7I"
+  },
+  {
+    "id": 298,
+    "problem_name": "Binary Tree Representation in Java",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/hyLyW7rP24I"
+  },
+  {
+    "id": 299,
+    "problem_name": "Pre, Post, Inorder in one traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/ySp2epYvgTE"
+  },
+  {
+    "id": 300,
+    "problem_name": "Preorder Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "youtube_url": "https://youtu.be/RlUu72JrOCQ"
+  },
+  {
+    "id": 301,
+    "problem_name": "Inorder Traversal of Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "youtube_url": "https://youtu.be/Z_NEgBgbRVI"
+  },
+  {
+    "id": 302,
+    "problem_name": "Postorder Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "youtube_url": "https://youtu.be/2YBhNLodD8Q"
+  },
+  {
+    "id": 303,
+    "problem_name": "Level Order Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "youtube_url": "https://youtu.be/EoAsWbO7sqg"
+  },
+  {
+    "id": 304,
+    "problem_name": "Iterative Preorder Traversal of Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "youtube_url": "https://youtu.be/Bfqd8BsPVuw"
+  },
+  {
+    "id": 305,
+    "problem_name": "Iterative Inorder Traversal of Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "youtube_url": "https://youtu.be/lxTGsVXjwvM"
+  },
+  {
+    "id": 306,
+    "problem_name": "Post-order Traversal of Binary Tree using 2 stack",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "youtube_url": "https://youtu.be/2YBhNLodD8Q"
+  },
+  {
+    "id": 307,
+    "problem_name": "Post-order Traversal of Binary Tree using 1 stack",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "youtube_url": "https://youtu.be/NzIGLLwZBS8"
+  },
+  {
+    "id": 308,
+    "problem_name": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/ySp2epYvgTE"
+  },
+  {
+    "id": 309,
+    "problem_name": "Maximum Depth in BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "youtube_url": "https://youtu.be/eD3tmO66aBA"
+  },
+  {
+    "id": 310,
+    "problem_name": "Check for balanced binary tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/balanced-binary-tree/",
+    "youtube_url": "https://youtu.be/Yt50Jfbd8Po"
+  },
+  {
+    "id": 311,
+    "problem_name": "Diameter of Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "youtube_url": "https://youtu.be/Rezetez59Nk"
+  },
+  {
+    "id": 312,
+    "problem_name": "Maximum path sum ",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "youtube_url": "https://youtu.be/WszrfSwMz58"
+  },
+  {
+    "id": 313,
+    "problem_name": "Check if two trees are identical or not",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/same-tree/",
+    "youtube_url": "https://youtu.be/BhuvF_-PWS0"
+  },
+  {
+    "id": 314,
+    "problem_name": "Zig Zag or Spiral Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "youtube_url": "https://youtu.be/3OXWEdlIGl4"
+  },
+  {
+    "id": 315,
+    "problem_name": "Boundary Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/boundary-of-binary-tree/",
+    "youtube_url": "https://youtu.be/0ca1nvR0be4"
+  },
+  {
+    "id": 316,
+    "problem_name": "Vertical Order Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+    "youtube_url": "https://youtu.be/q_a6lpbKJdw"
+  },
+  {
+    "id": 317,
+    "problem_name": "Top View of BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Et9OCDNvJ78"
+  },
+  {
+    "id": 318,
+    "problem_name": "Bottom view of BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/0FtVY6I4pB8"
+  },
+  {
+    "id": 319,
+    "problem_name": "Right/Left View of Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "youtube_url": "https://youtu.be/KV4mRzTjlAk"
+  },
+  {
+    "id": 320,
+    "problem_name": "Symmetric Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/symmetric-tree/",
+    "youtube_url": "https://youtu.be/nKggiEpBE"
+  },
+  {
+    "id": 321,
+    "problem_name": "Print root to leaf path in BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/fmflMqVOC7k"
+  },
+  {
+    "id": 322,
+    "problem_name": "LCA in BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "youtube_url": "https://youtu.be/_-QHfMDde90"
+  },
+  {
+    "id": 323,
+    "problem_name": "Maximum Width of BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+    "youtube_url": "https://youtu.be/ZbybYvcVLks"
+  },
+  {
+    "id": 324,
+    "problem_name": "Children Sum Property in Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/fnmisPM6cVo"
+  },
+  {
+    "id": 325,
+    "problem_name": "Print all nodes at a distance of K in BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+    "youtube_url": "https://youtu.be/i9ORlEy6EsI"
+  },
+  {
+    "id": 326,
+    "problem_name": "Minimum time taken to burn the BT from a given Node",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/2r5wLmQfD6g"
+  },
+  {
+    "id": 327,
+    "problem_name": "Count total nodes in a complete BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/count-complete-tree-nodes/",
+    "youtube_url": "https://youtu.be/u-yWemKGWO0"
+  },
+  {
+    "id": 328,
+    "problem_name": "Requirements needed to construct a unique BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/9GMECGQgWrQ"
+  },
+  {
+    "id": 329,
+    "problem_name": "Construct a BT from Preorder and Inorder",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "youtube_url": "https://youtu.be/aZNaLrVebKQ"
+  },
+  {
+    "id": 330,
+    "problem_name": "Construct the Binary Tree from Postorder and Inorder Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+    "youtube_url": "https://youtu.be/LgLRTaEMRVc"
+  },
+  {
+    "id": 331,
+    "problem_name": "Serialize and De-serialize BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "youtube_url": "https://youtu.be/-YbXySKJsX8"
+  },
+  {
+    "id": 332,
+    "problem_name": "Morris Preorder Traversal of a Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "youtube_url": "https://youtu.be/80Zug6D1_r4"
+  },
+  {
+    "id": 333,
+    "problem_name": "Morris Inorder Traversal of a Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "youtube_url": "https://youtu.be/80Zug6D1_r4"
+  },
+  {
+    "id": 334,
+    "problem_name": "Flatten Binary Tree to Linked List",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "youtube_url": "https://youtu.be/sWf7k1x9XR4"
+  },
+  {
+    "id": 335,
+    "problem_name": "Introduction to BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/p7-9UvDQZ3w"
+  },
+  {
+    "id": 336,
+    "problem_name": "Search in a Binary Search Tree",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+    "youtube_url": "https://youtu.be/KcNt6v_56cc"
+  },
+  {
+    "id": 337,
+    "problem_name": "Find Min/Max in BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 338,
+    "problem_name": "Floor and Ceil in a BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=xm_W1ub-K-w&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=43"
+  },
+  {
+    "id": 339,
+    "problem_name": "Floor in a Binary Search Tree",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/xm_W1ub-K-w"
+  },
+  {
+    "id": 340,
+    "problem_name": "Insert a given node in BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+    "youtube_url": "https://youtu.be/FiFiNvM29ps"
+  },
+  {
+    "id": 341,
+    "problem_name": "Delete a node in BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/delete-node-in-a-bst/",
+    "youtube_url": "https://youtu.be/kouxiP_H5WE"
+  },
+  {
+    "id": 342,
+    "problem_name": "Kth Smallest and Largest element in BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "youtube_url": "https://youtu.be/9TJYWh0adfk"
+  },
+  {
+    "id": 343,
+    "problem_name": "Check if a tree is a BST or not",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "youtube_url": "https://youtu.be/f-sj7I5oXEI"
+  },
+  {
+    "id": 344,
+    "problem_name": "LCA in BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "youtube_url": "https://youtu.be/cX_kPV_foZc"
+  },
+  {
+    "id": 345,
+    "problem_name": "Construct a BST from a preorder traversal",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+    "youtube_url": "https://youtu.be/UmJT3j26t1I"
+  },
+  {
+    "id": 346,
+    "problem_name": "Inorder Successor/Predecessor in BST",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/inorder-successor-in-bst/",
+    "youtube_url": "https://youtu.be/SXKAD2svfmI"
+  },
+  {
+    "id": 347,
+    "problem_name": "Merge 2 BST's",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "youtube_url": "https://youtu.be/D2jMcmxU4bs"
+  },
+  {
+    "id": 348,
+    "problem_name": "Two Sum In BST | Check if there exists a pair with Sum K",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+    "youtube_url": "https://youtu.be/ssL3sHwPeb4"
+  },
+  {
+    "id": 349,
+    "problem_name": "Correct BST with two nodes swapped",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/recover-binary-search-tree/",
+    "youtube_url": "https://youtu.be/ZWGW7FminDM"
+  },
+  {
+    "id": 350,
+    "problem_name": "Largest BST in Binary Tree",
+    "topic": "Binary Search Trees [Concept and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+    "youtube_url": "https://youtu.be/X0oXMdtUDwo"
+  },
+  {
+    "id": 351,
+    "problem_name": "Introduction to Graph",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/3oI-34aPMWM"
+  },
+  {
+    "id": 352,
+    "problem_name": "Graph Representation | C++",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/3oI-34aPMWM"
+  },
+  {
+    "id": 353,
+    "problem_name": "Graph Representation | Java",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/3oI-34aPMWM"
+  },
+  {
+    "id": 354,
+    "problem_name": "Connected Components",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 355,
+    "problem_name": "Traversal Techniques",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Qzf1a--rhp8"
+  },
+  {
+    "id": 356,
+    "problem_name": "DFS",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/Qzf1a--rhp8"
+  },
+  {
+    "id": 357,
+    "problem_name": "Number of provinces",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.",
+    "youtube_url": "https://youtu.be/ACzkVtewUYA"
+  },
+  {
+    "id": 358,
+    "problem_name": "Connected Components Problem in Matrix",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 359,
+    "problem_name": "Rotten Oranges",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/rotting-oranges/",
+    "youtube_url": "https://www.youtube.com/watch?v=yf3oUhkvqA0"
+  },
+  {
+    "id": 360,
+    "problem_name": "Flood fill algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/flood-fill/",
+    "youtube_url": ""
+  },
+  {
+    "id": 361,
+    "problem_name": "Cycle Detection in Undirected Graph (bfs)",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/BPlrALf1LDU"
+  },
+  {
+    "id": 362,
+    "problem_name": "Detect a cycle in an undirected graph",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule/",
+    "youtube_url": "https://youtu.be/zQ3zgFypzX4"
+  },
+  {
+    "id": 363,
+    "problem_name": "Distance of nearest cell having one",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/01-matrix/",
+    "youtube_url": "https://youtu.be/edXdVwkYHF8"
+  },
+  {
+    "id": 364,
+    "problem_name": "Surrounded Regions",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/surrounded-regions/",
+    "youtube_url": "https://youtu.be/BtdgAys4yMk"
+  },
+  {
+    "id": 365,
+    "problem_name": "Number of enclaves",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-enclaves/",
+    "youtube_url": "https://youtu.be/rxKcepXQgU4"
+  },
+  {
+    "id": 366,
+    "problem_name": "Word ladder I",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/word-ladder/",
+    "youtube_url": "https://youtu.be/tRPda0rcf8E"
+  },
+  {
+    "id": 367,
+    "problem_name": "Word ladder II",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/word-ladder-ii/",
+    "youtube_url": "https://youtu.be/AD4SFl7tu7I?si=EpcJQTWm2YeURvEG"
+  },
+  {
+    "id": 368,
+    "problem_name": "Number of islands",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-islands/",
+    "youtube_url": "https://www.youtube.com/watch?v=muncqlKJrH0&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=8"
+  },
+  {
+    "id": 369,
+    "problem_name": "Bipartite Graph (DFS)",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/is-graph-bipartite/",
+    "youtube_url": "https://youtu.be/KG5YFfR0j8A"
+  },
+  {
+    "id": 370,
+    "problem_name": "Cycle Detection in Directed Graph (DFS)",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem",
+    "youtube_url": "https://youtu.be/9twcmtQj4DU"
+  },
+  {
+    "id": 371,
+    "problem_name": "Topo Sort",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/5lZ0iJMrUMk"
+  },
+  {
+    "id": 372,
+    "problem_name": "Topological sort or Kahn's algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/5lZ0iJMrUMk"
+  },
+  {
+    "id": 373,
+    "problem_name": "Detect a cycle in a directed graph",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule/",
+    "youtube_url": "https://www.youtube.com/watch?v=uzVUw90ZFIg&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=12"
+  },
+  {
+    "id": 374,
+    "problem_name": "Course Schedule I",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule/",
+    "youtube_url": "https://youtu.be/WAOfKpxYHR8"
+  },
+  {
+    "id": 375,
+    "problem_name": "Course Schedule II",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule-ii/",
+    "youtube_url": "https://youtu.be/WAOfKpxYHR8"
+  },
+  {
+    "id": 376,
+    "problem_name": "Find eventual safe states",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/find-eventual-safe-states/",
+    "youtube_url": "https://youtu.be/2gtg3VsDGyc"
+  },
+  {
+    "id": 377,
+    "problem_name": "Alien Dictionary",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/alien-dictionary/solution/",
+    "youtube_url": "https://youtu.be/U3N_je7tWAs"
+  },
+  {
+    "id": 378,
+    "problem_name": "Shortest path in undirected graph with unit weights",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=C4gxoTaI71U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=28"
+  },
+  {
+    "id": 379,
+    "problem_name": "Shortest path in DAG",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27"
+  },
+  {
+    "id": 380,
+    "problem_name": "Djisktra's Algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35"
+  },
+  {
+    "id": 381,
+    "problem_name": "Why priority Queue is used in Djisktra's Algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35"
+  },
+  {
+    "id": 382,
+    "problem_name": "Shortest Distance in a Binary Maze",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    "youtube_url": "https://www.youtube.com/watch?v=U5Mw4eyUmw4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=36"
+  },
+  {
+    "id": 383,
+    "problem_name": "Path with minimum effort",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/path-with-minimum-effort/",
+    "youtube_url": "https://youtu.be/0ytpZyiZFhA"
+  },
+  {
+    "id": 384,
+    "problem_name": "Cheapest flight within K stops",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "youtube_url": "https://youtu.be/9XybHVqTHcQ"
+  },
+  {
+    "id": 385,
+    "problem_name": "Network Delay Time",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/network-delay-time/",
+    "youtube_url": ""
+  },
+  {
+    "id": 386,
+    "problem_name": "Number of ways to arrive at destination",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+    "youtube_url": "https://youtu.be/_-0mx0SmYxA"
+  },
+  {
+    "id": 387,
+    "problem_name": "Minimum multiplications to reach end",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=_BvEJ3VIDWw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=39"
+  },
+  {
+    "id": 388,
+    "problem_name": "Bellman Ford Algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/0vVofAhAYjc"
+  },
+  {
+    "id": 389,
+    "problem_name": "Floyd warshall algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=YbY8cVwWAvw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=42"
+  },
+  {
+    "id": 390,
+    "problem_name": "Find the city with the smallest number of neighbors",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+    "youtube_url": "https://youtu.be/9XybHVqTHcQ"
+  },
+  {
+    "id": 391,
+    "problem_name": "MST theory",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/ZSPjZuZWCME"
+  },
+  {
+    "id": 392,
+    "problem_name": "Prim's Algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/mJcZjjKzeqk"
+  },
+  {
+    "id": 393,
+    "problem_name": "Disjoint Set ",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/aBxjDBC4M1U"
+  },
+  {
+    "id": 394,
+    "problem_name": "Find the MST weight",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/mJcZjjKzeqk"
+  },
+  {
+    "id": 395,
+    "problem_name": "Number of operations to make network connected",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+    "youtube_url": "https://youtu.be/FYrl7iz9_ZU"
+  },
+  {
+    "id": 396,
+    "problem_name": "Most stones removed with same row or column",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+    "youtube_url": "https://youtu.be/OwMNX8SPavM"
+  },
+  {
+    "id": 397,
+    "problem_name": "Accounts merge",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/accounts-merge/",
+    "youtube_url": "https://youtu.be/FMwpt_aQOGw"
+  },
+  {
+    "id": 398,
+    "problem_name": "Number of islands II",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/number-of-islands-ii/",
+    "youtube_url": "https://youtu.be/Rn6B-Q4SNyA"
+  },
+  {
+    "id": 399,
+    "problem_name": "Making a large island",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/making-a-large-island/",
+    "youtube_url": "https://youtu.be/lgiz0Oup6gM"
+  },
+  {
+    "id": 400,
+    "problem_name": "Swim in Rising Water",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/swim-in-rising-water/",
+    "youtube_url": ""
+  },
+  {
+    "id": 401,
+    "problem_name": "Bridges in graph",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph",
+    "youtube_url": "https://youtu.be/qrAub5z8FeA"
+  },
+  {
+    "id": 402,
+    "problem_name": "Articulation point in graph",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/j1QDfU21iZk"
+  },
+  {
+    "id": 403,
+    "problem_name": "Kosaraju's algorithm",
+    "topic": "Graphs [Concepts & Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+    "youtube_url": "https://www.youtube.com/watch?v=V8qIqJxCioo&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=27"
+  },
+  {
+    "id": 404,
+    "problem_name": "Introduction to DP",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/tyB0ztf0DNY"
+  },
+  {
+    "id": 405,
+    "problem_name": "Climbing stairs",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/climbing-stairs/",
+    "youtube_url": "https://youtu.be/mLfjzJsN8us"
+  },
+  {
+    "id": 406,
+    "problem_name": "Frog Jump",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=EgG3jsGoPvQ"
+  },
+  {
+    "id": 407,
+    "problem_name": "Frog jump with K distances",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=Kmh3rhyEtB8"
+  },
+  {
+    "id": 408,
+    "problem_name": "Maximum sum of non adjacent elements",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/house-robber/",
+    "youtube_url": "https://www.youtube.com/watch?v=GrMBfJNk_NY"
+  },
+  {
+    "id": 409,
+    "problem_name": "House robber",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/house-robber-ii/",
+    "youtube_url": "https://www.youtube.com/watch?v=3WaxQMELSkw"
+  },
+  {
+    "id": 410,
+    "problem_name": "Ninja's training",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=AE39gJYuRog"
+  },
+  {
+    "id": 411,
+    "problem_name": "Grid Unique Paths : DP on Grids (DP8)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/unique-paths/",
+    "youtube_url": "https://www.youtube.com/watch?v=sdE0A2Oxofw"
+  },
+  {
+    "id": 412,
+    "problem_name": "Unique paths II",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/unique-paths-ii/",
+    "youtube_url": "https://www.youtube.com/watch?v=TmhpgXScLyY"
+  },
+  {
+    "id": 413,
+    "problem_name": "Minimum Falling Path Sum",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/minimum-path-sum/",
+    "youtube_url": "https://youtu.be/_rgTlyky1uQ"
+  },
+  {
+    "id": 414,
+    "problem_name": "Triangle",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/triangle/",
+    "youtube_url": "https://www.youtube.com/watch?v=SrP-PiLSYC0"
+  },
+  {
+    "id": 415,
+    "problem_name": "Ninja and his Friends",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=QGfn7JeXK54"
+  },
+  {
+    "id": 416,
+    "problem_name": "Subset sum equal to target (DP- 14)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=fWX9xDmIzRI"
+  },
+  {
+    "id": 417,
+    "problem_name": "Partition equal subset sum",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "youtube_url": "https://www.youtube.com/watch?v=7win3dcgo3k"
+  },
+  {
+    "id": 418,
+    "problem_name": "Partition a set into two subsets with minimum absolute sum difference",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
+    "youtube_url": "https://www.youtube.com/watch?v=GS_OqZb2CWc"
+  },
+  {
+    "id": 419,
+    "problem_name": "Count subsets with sum K",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=ZHyb-A2Mte4"
+  },
+  {
+    "id": 420,
+    "problem_name": "Count partitions with given difference",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=zoilQD1kYSg"
+  },
+  {
+    "id": 421,
+    "problem_name": "Assign Cookies",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/assign-cookies/",
+    "youtube_url": "https://youtu.be/DIX2p7vb9co?si=GofAIDimue-Av0Fi"
+  },
+  {
+    "id": 422,
+    "problem_name": "Minimum Coins (DP - 20)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/coin-change/",
+    "youtube_url": "https://www.youtube.com/watch?v=myPeWb3Y68A"
+  },
+  {
+    "id": 423,
+    "problem_name": "Target sum",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/target-sum/",
+    "youtube_url": "https://www.youtube.com/watch?v=b3GD8263-PQ"
+  },
+  {
+    "id": 424,
+    "problem_name": "Coin Change 2 (DP - 22)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/coin-change-2/",
+    "youtube_url": "https://www.youtube.com/watch?v=HgyouUi11zk"
+  },
+  {
+    "id": 425,
+    "problem_name": "Unbounded knapsack",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/OgvOZ6OrJoY"
+  },
+  {
+    "id": 426,
+    "problem_name": "Rod Cutting Problem | (DP - 24)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/mO8XpGoJwuo"
+  },
+  {
+    "id": 427,
+    "problem_name": "Longest common subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/-zI4mrF2Pb4"
+  },
+  {
+    "id": 428,
+    "problem_name": "Print Longest Common Subsequence | (DP - 26)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/-zI4mrF2Pb4"
+  },
+  {
+    "id": 429,
+    "problem_name": "Longest common substring",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/_wP9mWNPL5w"
+  },
+  {
+    "id": 430,
+    "problem_name": "Longest palindromic subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "youtube_url": "https://youtu.be/6i_T5kkfv4A"
+  },
+  {
+    "id": 431,
+    "problem_name": "Minimum insertions to make string palindrome | DP-29",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+    "youtube_url": "https://www.youtube.com/watch?v=xPBLEj41rFU"
+  },
+  {
+    "id": 432,
+    "problem_name": "Minimum insertions or deletions to convert string A to B",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+    "youtube_url": "https://www.youtube.com/watch?v=yMnH0jrir0Q"
+  },
+  {
+    "id": 433,
+    "problem_name": "Shortest common supersequence",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/shortest-common-supersequence/",
+    "youtube_url": "https://youtu.be/xElxAuBcvsU"
+  },
+  {
+    "id": 434,
+    "problem_name": "Distinct subsequences",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/distinct-subsequences/",
+    "youtube_url": "https://youtu.be/nVG7eTiD2bY"
+  },
+  {
+    "id": 435,
+    "problem_name": "Edit distance",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/edit-distance/",
+    "youtube_url": "https://youtu.be/fJaKO8FbDdo"
+  },
+  {
+    "id": 436,
+    "problem_name": "Wildcard matching",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/wildcard-matching/",
+    "youtube_url": "https://youtu.be/ZmlQ3vgAOMo"
+  },
+  {
+    "id": 437,
+    "problem_name": "Best time to buy and sell stock",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "youtube_url": "https://youtu.be/excAOvwF_Wk"
+  },
+  {
+    "id": 438,
+    "problem_name": "Best time to buy and sell stock II",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "youtube_url": "https://youtu.be/nGJmxkUJQGs"
+  },
+  {
+    "id": 439,
+    "problem_name": "Best time to buy and sell stock III",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+    "youtube_url": "https://youtu.be/-uQGzhYj8BQ"
+  },
+  {
+    "id": 440,
+    "problem_name": "Best time to buy and sell stock IV",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+    "youtube_url": "https://youtu.be/IV1dHbk5CDc"
+  },
+  {
+    "id": 441,
+    "problem_name": "Best Time to Buy and Sell Stock with Cooldown",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "youtube_url": "https://youtu.be/IGIe46xw3YY"
+  },
+  {
+    "id": 442,
+    "problem_name": "Best time to buy and sell stock with transaction fees",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+    "youtube_url": "https://youtu.be/k4eK-vEmnKg"
+  },
+  {
+    "id": 443,
+    "problem_name": "Longest Increasing Subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/on2hvxBXJH4"
+  },
+  {
+    "id": 444,
+    "problem_name": "Print Longest Increasing Subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/IFfYfonAFGc"
+  },
+  {
+    "id": 445,
+    "problem_name": "Longest Increasing Subsequence |(DP-43)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/on2hvxBXJH4"
+  },
+  {
+    "id": 446,
+    "problem_name": "Largest Divisible Subset",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/largest-divisible-subset/",
+    "youtube_url": "https://youtu.be/gDuZwBW9VvM"
+  },
+  {
+    "id": 447,
+    "problem_name": "Longest String Chain",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-string-chain/",
+    "youtube_url": "https://youtu.be/YY8iBaYcc4g"
+  },
+  {
+    "id": 448,
+    "problem_name": "Longest Bitonic Subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/y4vN0WNdrlg"
+  },
+  {
+    "id": 449,
+    "problem_name": "Number of Longest Increasing Subsequences",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+    "youtube_url": "https://youtu.be/cKVl1TFdNXg"
+  },
+  {
+    "id": 450,
+    "problem_name": "Matrix chain multiplication",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/vRVfmbCFW7Y"
+  },
+  {
+    "id": 451,
+    "problem_name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/pDCXsbAw5Cg"
+  },
+  {
+    "id": 452,
+    "problem_name": "Minimum cost to cut the stick",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+    "youtube_url": "https://youtu.be/xwomavsC86c"
+  },
+  {
+    "id": 453,
+    "problem_name": "Burst balloons",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/burst-balloons/",
+    "youtube_url": "https://youtu.be/Yz4LlDSlkns"
+  },
+  {
+    "id": 454,
+    "problem_name": "Different Ways to Evaluate a Boolean Expression",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+    "youtube_url": "https://youtu.be/MM7fXopgyjw"
+  },
+  {
+    "id": 455,
+    "problem_name": "Palindrome partitioning II ",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+    "youtube_url": "https://youtu.be/_H8V5hJUGd0"
+  },
+  {
+    "id": 456,
+    "problem_name": "Partition Array for Maximum Sum",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+    "youtube_url": "https://youtu.be/PhWWJmaKfMc"
+  },
+  {
+    "id": 457,
+    "problem_name": "Maximum Rectangle Area with all 1's|(DP-55)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/maximal-rectangle/",
+    "youtube_url": "https://youtu.be/tOylVCugy9k"
+  },
+  {
+    "id": 458,
+    "problem_name": "Count Square Submatrices with All Ones|(DP-56)",
+    "topic": "Dynamic Programming [Patterns and Problems]",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+    "youtube_url": "https://youtu.be/auS1fynpnjo"
+  },
+  {
+    "id": 459,
+    "problem_name": "Trie Implementation and Operations",
+    "topic": "Tries",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "youtube_url": "https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp"
+  },
+  {
+    "id": 460,
+    "problem_name": "Trie Implementation and Advanced Operations",
+    "topic": "Tries",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 461,
+    "problem_name": "Longest Word with All Prefixes",
+    "topic": "Tries",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3"
+  },
+  {
+    "id": 462,
+    "problem_name": "Number of distinct substrings in a string",
+    "topic": "Tries",
+    "difficulty": "Medium",
+    "leetcode_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4"
+  },
+  {
+    "id": 463,
+    "problem_name": "Bit PreRequisites for TRIE Problems",
+    "topic": "Tries",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": "https://youtu.be/5iyuU4hQFrw"
+  },
+  {
+    "id": 464,
+    "problem_name": "Maximum XOR of two numbers in an array",
+    "topic": "Tries",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+    "youtube_url": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6"
+  },
+  {
+    "id": 465,
+    "problem_name": "Maximum Xor with an element from an array",
+    "topic": "Tries",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+    "youtube_url": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7"
+  },
+  {
+    "id": 466,
+    "problem_name": "Minimum number of bracket reversals to make an expression balanced",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+    "youtube_url": ""
+  },
+  {
+    "id": 467,
+    "problem_name": "Count and say",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/count-and-say/",
+    "youtube_url": ""
+  },
+  {
+    "id": 468,
+    "problem_name": "Hashing In Strings | Theory",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 469,
+    "problem_name": "Rabin Karp Algorithm",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+    "youtube_url": ""
+  },
+  {
+    "id": 470,
+    "problem_name": "Z function",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 471,
+    "problem_name": "KMP Algorithm or LPS array",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/implement-strstr/",
+    "youtube_url": ""
+  },
+  {
+    "id": 472,
+    "problem_name": "Shortest Palindrome",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "leetcode_url": "",
+    "youtube_url": ""
+  },
+  {
+    "id": 473,
+    "problem_name": "Longest happy prefix",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/longest-happy-prefix/",
+    "youtube_url": ""
+  },
+  {
+    "id": 474,
+    "problem_name": "Count Palindromic Subsequences",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/palindromic-substrings/",
+    "youtube_url": ""
+  }
+]
