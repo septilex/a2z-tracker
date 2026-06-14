@@ -1,16 +1,15 @@
 import React from 'react';
 
-// Determine the label for the solve button based on URL domain
-function getSolveLabel(url) {
-  if (!url) return null;
-  if (url.includes('leetcode.com')) return '🔗 Solve (LC)';
-  if (url.includes('geeksforgeeks.org')) return '🔗 Solve (GFG)';
-  if (url.includes('codingninjas.com') || url.includes('naukri.com/code360')) return '🔗 Solve (CN)';
-  return '🔗 Solve';
+// Determine button label + class from the solve_url domain
+function getSolveInfo(url) {
+  if (!url) return { label: 'No Practice Link', cls: 'link-btn-disabled', disabled: true };
+  if (url.includes('leetcode.com')) return { label: '🔗 Solve (LC)', cls: 'link-btn-solve', disabled: false };
+  if (url.includes('geeksforgeeks.org')) return { label: '🔗 Solve (GFG)', cls: 'link-btn-solve link-btn-gfg', disabled: false };
+  return { label: 'No Practice Link', cls: 'link-btn-disabled', disabled: true };
 }
 
 export default function ProblemCard({ problem, status, updateStatus }) {
-  const solveLabel = getSolveLabel(problem.solve_url);
+  const solve = getSolveInfo(problem.solve_url);
 
   return (
     <div className="glass-panel problem-card">
@@ -25,16 +24,16 @@ export default function ProblemCard({ problem, status, updateStatus }) {
           </div>
         </div>
       </div>
-      
+
       <div className="problem-actions">
         <div className="links">
-          {/* Solve Button — LC preferred, GFG fallback */}
-          {problem.solve_url ? (
-            <a href={problem.solve_url} target="_blank" rel="noreferrer" className="link-btn link-btn-solve">
-              {solveLabel}
-            </a>
+          {/* Solve Button */}
+          {solve.disabled ? (
+            <span className={`link-btn ${solve.cls}`}>{solve.label}</span>
           ) : (
-            <span className="link-btn link-btn-disabled">[ Solve N/A ]</span>
+            <a href={problem.solve_url} target="_blank" rel="noreferrer" className={`link-btn ${solve.cls}`}>
+              {solve.label}
+            </a>
           )}
 
           {/* Striver Button */}
@@ -55,10 +54,10 @@ export default function ProblemCard({ problem, status, updateStatus }) {
             <span className="link-btn link-btn-disabled">☕ Java</span>
           )}
         </div>
-        
-        <select 
+
+        <select
           className={`status-select status-${status}`}
-          value={status} 
+          value={status}
           onChange={(e) => updateStatus(problem.id, e.target.value)}
         >
           <option value="not_started">Not Started</option>

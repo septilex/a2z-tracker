@@ -3649,7 +3649,7 @@
     "problem_name": "Frog Jump",
     "topic": "Dynamic Programming [Patterns and Problems]",
     "difficulty": "Medium",
-    "solve_url": "https://www.codingninjas.com/studio/problems/frog-jump_3621012",
+    "solve_url": "https://www.geeksforgeeks.org/frog-jump-dp-3/",
     "youtube_url": "https://www.youtube.com/watch?v=EgG3jsGoPvQ",
     "java_url": "https://www.youtube.com/watch?v=EgG3jsGoPvQ"
   },
@@ -3658,7 +3658,7 @@
     "problem_name": "Frog jump with K distances",
     "topic": "Dynamic Programming [Patterns and Problems]",
     "difficulty": "Medium",
-    "solve_url": "https://www.codingninjas.com/studio/problems/minimal-cost_8180930",
+    "solve_url": "https://www.geeksforgeeks.org/frog-jump-k-jumps-allowed/",
     "youtube_url": "https://www.youtube.com/watch?v=Kmh3rhyEtB8",
     "java_url": "https://www.youtube.com/watch?v=Kmh3rhyEtB8"
   },
@@ -3685,7 +3685,7 @@
     "problem_name": "Ninja's training",
     "topic": "Dynamic Programming [Patterns and Problems]",
     "difficulty": "Medium",
-    "solve_url": "https://www.codingninjas.com/studio/problems/ninja-s-training_3621003",
+    "solve_url": "https://www.geeksforgeeks.org/maximum-sum-values-chose-every-ith-ii-element/",
     "youtube_url": "https://www.youtube.com/watch?v=AE39gJYuRog",
     "java_url": "https://www.youtube.com/watch?v=AE39gJYuRog"
   },
@@ -3730,7 +3730,7 @@
     "problem_name": "Ninja and his Friends",
     "topic": "Dynamic Programming [Patterns and Problems]",
     "difficulty": "Medium",
-    "solve_url": "https://www.codingninjas.com/studio/problems/chocolate-pickup_3125842",
+    "solve_url": "https://www.geeksforgeeks.org/chocolate-distribution-problem-set-2/",
     "youtube_url": "https://www.youtube.com/watch?v=QGfn7JeXK54",
     "java_url": "https://www.youtube.com/watch?v=QGfn7JeXK54"
   },

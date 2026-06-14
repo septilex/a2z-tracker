@@ -598,6 +598,17 @@ a:hover {
   box-shadow: 0 0 10px var(--accent-primary);
 }
 
+/* GFG variant — green tint */
+.link-btn-gfg {
+  border-color: #2cbb5d !important;
+  color: #2cbb5d !important;
+}
+.link-btn-gfg:hover {
+  background-color: #2cbb5d !important;
+  color: #fff !important;
+  box-shadow: 0 0 10px #2cbb5d !important;
+}
+
 .link-btn-striver {
   border-color: #ff4040;
   color: #ff4040;
