@@ -410,6 +410,13 @@ a:hover {
 .topic-card {
   display: flex;
   flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.topic-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--card-hover-border);
+  box-shadow: var(--card-hover-shadow);
 }
 
 .topic-title {
@@ -856,6 +863,13 @@ a:hover {
 .topic-card {
   display: flex;
   flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.topic-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--card-hover-border);
+  box-shadow: var(--card-hover-shadow);
 }
 
 .topic-title {
@@ -884,3 +898,40 @@ a:hover {
   font-family: var(--header-font);
   color: var(--text-secondary);
 }
+
+/* Mobile Media Queries */
+@media (max-width: 600px) {
+  .navbar {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  
+  .problem-actions {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  
+  .links {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .main-progress-card {
+    padding: 1.5rem;
+  }
+
+  .session-card {
+    padding: 1.5rem;
+  }
+
+  .filters {
+    flex-direction: column;
+  }
+}
+

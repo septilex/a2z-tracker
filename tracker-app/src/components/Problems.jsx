@@ -32,14 +32,22 @@ export default function Problems({ problems, progress, updateStatus, focusTrigge
         const el = document.getElementById(`problem-${focusTrigger.id}`);
         if (el) {
           el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          
+          // Enhanced highlighting
           el.style.border = '2px solid var(--accent-primary)';
-          el.style.transform = 'scale(1.02)';
+          el.style.boxShadow = '0 0 30px rgba(0, 243, 255, 0.4)';
+          el.style.transform = 'scale(1.03)';
+          el.style.zIndex = '10';
+          el.style.position = 'relative';
+          
           setTimeout(() => {
             el.style.border = '1px solid var(--border-color)';
+            el.style.boxShadow = 'none';
             el.style.transform = 'scale(1)';
-          }, 2000);
+            el.style.zIndex = '1';
+          }, 4000); // Increased glow duration to 4 seconds
         }
-      }, 100);
+      }, 150); // slight increase to ensure DOM flush
     }
   }, [focusTrigger]);
 

@@ -9,7 +9,7 @@ function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [focusTrigger, setFocusTrigger] = useState(null);
   const [initialTopic, setInitialTopic] = useState('');
-  const { progress, updateStatus } = useProgress();
+  const { progress, completions, updateStatus } = useProgress();
   const { theme, toggleTheme } = useTheme();
 
   const handleContinue = () => {
@@ -61,7 +61,7 @@ function App() {
 
       <main>
         {activeTab === 'dashboard' && (
-          <Dashboard problems={problemsData} progress={progress} onTopicClick={handleTopicClick} />
+          <Dashboard problems={problemsData} progress={progress} completions={completions} onTopicClick={handleTopicClick} />
         )}
         {activeTab === 'problems' && (
           <Problems 

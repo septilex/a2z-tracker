@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { memo } from 'react';
 
 // Returns button metadata based on solve_url domain
 function getSolveInfo(url) {
@@ -14,7 +14,7 @@ function getSolveInfo(url) {
   return { label: 'No Practice Link', platform: null, cls: 'link-btn-disabled', disabled: true };
 }
 
-export default function ProblemCard({ problem, status, updateStatus }) {
+const ProblemCard = memo(function ProblemCard({ problem, status, updateStatus }) {
   const solve = getSolveInfo(problem.solve_url);
   const isGFGOnly = solve.platform === 'GFG';
 
@@ -98,4 +98,6 @@ export default function ProblemCard({ problem, status, updateStatus }) {
       </div>
     </div>
   );
-}
+});
+
+export default ProblemCard;
