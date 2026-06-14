@@ -71,9 +71,16 @@ export default function ProblemCard({ problem, status, updateStatus }) {
 
           {/* Java Button */}
           {problem.java_url ? (
-            <a href={problem.java_url} target="_blank" rel="noreferrer" className="link-btn link-btn-java">
-              ☕ Java
-            </a>
+            <span style={{ display: 'inline-flex', alignItems: 'center' }}>
+              <a href={problem.java_url} target="_blank" rel="noreferrer" className="link-btn link-btn-java">
+                ☕ Java
+              </a>
+              {solve.platform === 'LC' && (
+                <span className="badge-recommended" title="Recommended Java solution for this LeetCode problem">
+                  ★ Recommended
+                </span>
+              )}
+            </span>
           ) : (
             <span className="link-btn link-btn-disabled" title="No Java resource available">☕ Java</span>
           )}

@@ -1,0 +1,696 @@
+{
+  "generated_at": "2026-06-14T07:58:26.565Z",
+  "totals": {
+    "total_problems": 474,
+    "with_java_resource": 432,
+    "without_java_resource": 42,
+    "java_coverage_pct": 91
+  },
+  "source_breakdown": {
+    "Striver": 419,
+    "YouTube (Other)": 13
+  },
+  "quality_issues": {
+    "duplicate_links": {
+      "count": 40,
+      "duplicates": [
+        {
+          "url": "https://www.youtube.com/watch",
+          "ids": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            52,
+            74,
+            106,
+            116,
+            187,
+            188,
+            252,
+            406,
+            407,
+            410,
+            415,
+            416,
+            418,
+            419,
+            420,
+            431,
+            432
+          ],
+          "count": 48
+        },
+        {
+          "url": "https://youtu.be/EAR7De6Goz4",
+          "ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "count": 8
+        },
+        {
+          "url": "https://youtu.be/1xNbjMdbjug",
+          "ids": [
+            36,
+            39,
+            40,
+            41,
+            42,
+            219
+          ],
+          "count": 6
+        },
+        {
+          "url": "https://youtu.be/nttpF8kwgd4",
+          "ids": [
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ],
+          "count": 6
+        },
+        {
+          "url": "https://youtu.be/tqQ5fTamIN4",
+          "ids": [
+            223,
+            224,
+            225,
+            226,
+            227,
+            228
+          ],
+          "count": 6
+        },
+        {
+          "url": "https://youtu.be/4pIc9UBHJtk",
+          "ids": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
+          ],
+          "count": 6
+        },
+        {
+          "url": "https://youtu.be/wvcQg43_V8U",
+          "ids": [
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "count": 5
+        },
+        {
+          "url": "https://youtu.be/37E9ckMDdTk",
+          "ids": [
+            62,
+            63,
+            64,
+            65
+          ],
+          "count": 4
+        },
+        {
+          "url": "https://youtu.be/bYWLJb3vCWY",
+          "ids": [
+            71,
+            72,
+            73,
+            214
+          ],
+          "count": 4
+        },
+        {
+          "url": "https://youtu.be/HGk_ypEuS24",
+          "ids": [
+            55,
+            56,
+            57
+          ],
+          "count": 3
+        },
+        {
+          "url": "https://youtu.be/6zhGS79oQ4k",
+          "ids": [
+            103,
+            104,
+            105
+          ],
+          "count": 3
+        },
+        {
+          "url": "https://youtu.be/Nq7ok-OyEpg",
+          "ids": [
+            149,
+            152,
+            153
+          ],
+          "count": 3
+        },
+        {
+          "url": "https://youtu.be/0eKMU10uEDI",
+          "ids": [
+            154,
+            155,
+            156
+          ],
+          "count": 3
+        },
+        {
+          "url": "https://youtu.be/3oI-34aPMWM",
+          "ids": [
+            351,
+            352,
+            353
+          ],
+          "count": 3
+        },
+        {
+          "url": "https://youtu.be/s5f5O3VGkI8",
+          "ids": [
+            49,
+            50
+          ],
+          "count": 2
+        },
+        {
+          "url": "https://youtu.be/AHZpyENo7k4",
+          "ids": [
+            79,
+            80
+          ],
+          "count": 2
+        },
+        {
+          "url": "https://youtu.be/excAOvwF_Wk",
+          "ids": [
+            81,
+            437
+          ],
+          "count": 2
+        },
+        {
+          "url": "https://youtu.be/IexN60k62jo",
+          "ids": [
+            96,
+            295
+          ],
+          "count": 2
+        },
+        {
+          "url": "https://youtu.be/hjR1IYVx9lY",
+          "ids": [
+            107,
+            108
+          ],
+          "count": 2
+        },
+        {
+          "url": "https://youtu.be/thUd_WJn6wk",
+          "ids": [
+            124,
+            125
+          ],
+          "count": 2
+        }
+      ]
+    },
+    "non_java_specific_gfg": {
+      "count": 0,
+      "problems": []
+    },
+    "suspicious_urls": {
+      "count": 0,
+      "problems": []
+    }
+  },
+  "manual_verification_samples": {
+    "lc_problems": [
+      {
+        "id": 360,
+        "name": "Flood fill algorithm",
+        "topic": "Graphs [Concepts & Problems]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/flood-fill/"
+      },
+      {
+        "id": 37,
+        "name": "Reverse a number",
+        "topic": "Learn the basics",
+        "difficulty": "Easy",
+        "solve_url": "https://leetcode.com/problems/reverse-integer/"
+      },
+      {
+        "id": 109,
+        "name": "Search in rotated sorted array-I",
+        "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+      },
+      {
+        "id": 110,
+        "name": "Search in rotated sorted array-II",
+        "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/"
+      },
+      {
+        "id": 242,
+        "name": "Sum of Subarray Minimums",
+        "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/sum-of-subarray-minimums/"
+      },
+      {
+        "id": 253,
+        "name": "Longest Substring Without Repeating Characters",
+        "topic": "Sliding Window & Two Pointer Combined Problems",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+      },
+      {
+        "id": 262,
+        "name": "Subarrays with K Different Integers",
+        "topic": "Sliding Window & Two Pointer Combined Problems",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/subarrays-with-k-different-integers/"
+      },
+      {
+        "id": 79,
+        "name": "Kadane's Algorithm",
+        "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/maximum-subarray/"
+      },
+      {
+        "id": 214,
+        "name": "Single Number - I",
+        "topic": "Bit Manipulation [Concepts & Problems]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/single-number/"
+      },
+      {
+        "id": 263,
+        "name": "Minimum Window Substring ",
+        "topic": "Sliding Window & Two Pointer Combined Problems",
+        "difficulty": "Hard",
+        "solve_url": "https://leetcode.com/problems/minimum-window-substring/"
+      },
+      {
+        "id": 158,
+        "name": "Middle of a LinkedList [TortoiseHare Method]",
+        "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+        "difficulty": "Easy",
+        "solve_url": "https://leetcode.com/problems/middle-of-the-linked-list/"
+      },
+      {
+        "id": 60,
+        "name": "Recursive Insertion Sort",
+        "topic": "Learn Important Sorting Techniques",
+        "difficulty": "Easy",
+        "solve_url": "https://leetcode.com/problems/sort-an-array/"
+      },
+      {
+        "id": 192,
+        "name": "Combination Sum II",
+        "topic": "Recursion [PatternWise]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/combination-sum-ii/"
+      },
+      {
+        "id": 252,
+        "name": "LFU Cache",
+        "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+        "difficulty": "Hard",
+        "solve_url": "https://leetcode.com/problems/lfu-cache/"
+      },
+      {
+        "id": 91,
+        "name": "Majority Element-II",
+        "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+        "difficulty": "Hard",
+        "solve_url": "https://leetcode.com/problems/majority-element-ii/"
+      },
+      {
+        "id": 138,
+        "name": "Isomorphic String",
+        "topic": "Strings [Basic and Medium]",
+        "difficulty": "Easy",
+        "solve_url": "https://leetcode.com/problems/isomorphic-strings/"
+      },
+      {
+        "id": 196,
+        "name": "Letter Combinations of a Phone Number",
+        "topic": "Recursion [PatternWise]",
+        "difficulty": "Hard",
+        "solve_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+      },
+      {
+        "id": 172,
+        "name": "Add two numbers in Linked List",
+        "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/add-two-numbers/"
+      },
+      {
+        "id": 134,
+        "name": "Remove Outermost Parentheses",
+        "topic": "Strings [Basic and Medium]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/remove-outermost-parentheses/"
+      },
+      {
+        "id": 73,
+        "name": "Find the number that appears once, and other numbers twice.",
+        "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+        "difficulty": "Medium",
+        "solve_url": "https://leetcode.com/problems/single-number/"
+      }
+    ],
+    "gfg_only_problems": [
+      {
+        "id": 219,
+        "name": "Divisors of a Number",
+        "topic": "Bit Manipulation [Concepts & Problems]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/find-divisors-natural-number-set-1/"
+      },
+      {
+        "id": 223,
+        "name": "Implement Stack using Arrays",
+        "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/stack-data-structure-introduction-program/"
+      },
+      {
+        "id": 233,
+        "name": "Prefix to Postfix Conversion",
+        "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+        "difficulty": "Medium",
+        "solve_url": "https://www.geeksforgeeks.org/prefix-postfix-conversion/"
+      },
+      {
+        "id": 227,
+        "name": "Implement stack using Linkedlist",
+        "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/"
+      },
+      {
+        "id": 289,
+        "name": "Minimum number of platforms required for a railway",
+        "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+        "difficulty": "Medium",
+        "solve_url": "https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/"
+      },
+      {
+        "id": 210,
+        "name": "Set/Unset the rightmost unset bit",
+        "topic": "Bit Manipulation [Concepts & Problems]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/unset-rightmost-set-bit/"
+      },
+      {
+        "id": 189,
+        "name": "Count all subsequences with sum K",
+        "topic": "Recursion [PatternWise]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/count-of-subsets-having-sum-equal-to-k/"
+      },
+      {
+        "id": 290,
+        "name": "Job sequencing Problem",
+        "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+        "difficulty": "Medium",
+        "solve_url": "https://www.geeksforgeeks.org/job-sequencing-problem/"
+      },
+      {
+        "id": 35,
+        "name": "Java Collections",
+        "topic": "Learn the basics",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/collections-in-java-2/"
+      },
+      {
+        "id": 266,
+        "name": "Heaps (Theory Video)",
+        "topic": "Heaps [Learning, Medium, Hard Problems]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/binary-heap/"
+      },
+      {
+        "id": 8,
+        "name": "Functions (Pass by Reference and Value)",
+        "topic": "Learn the basics",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/methods-in-java/"
+      },
+      {
+        "id": 298,
+        "name": "Binary Tree Representation in Java",
+        "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/binary-tree-set-1-introduction/"
+      },
+      {
+        "id": 46,
+        "name": "Print N to 1 using Recursion",
+        "topic": "Learn the basics",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/recursion-in-java/"
+      },
+      {
+        "id": 30,
+        "name": "Pattern 19",
+        "topic": "Learn the basics",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+      },
+      {
+        "id": 41,
+        "name": "Print all Divisors",
+        "topic": "Learn the basics",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/find-divisors-natural-number-set-1/"
+      },
+      {
+        "id": 26,
+        "name": "Pattern 15",
+        "topic": "Learn the basics",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/pattern-programs-java/"
+      },
+      {
+        "id": 218,
+        "name": "Print Prime Factors of a Number",
+        "topic": "Bit Manipulation [Concepts & Problems]",
+        "difficulty": "Hard",
+        "solve_url": "https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/"
+      },
+      {
+        "id": 286,
+        "name": "N meetings in one room",
+        "topic": "Greedy Algorithms [Easy, Medium/Hard]",
+        "difficulty": "Medium",
+        "solve_url": "https://www.geeksforgeeks.org/n-meetings-in-one-room/"
+      },
+      {
+        "id": 371,
+        "name": "Topo Sort",
+        "topic": "Graphs [Concepts & Problems]",
+        "difficulty": "Hard",
+        "solve_url": "https://www.geeksforgeeks.org/topological-sorting/"
+      },
+      {
+        "id": 339,
+        "name": "Floor in a Binary Search Tree",
+        "topic": "Binary Search Trees [Concept and Problems]",
+        "difficulty": "Easy",
+        "solve_url": "https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/"
+      }
+    ],
+    "java_resources": [
+      {
+        "id": 63,
+        "name": "Second Largest Element",
+        "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+        "java_url": "https://youtu.be/37E9ckMDdTk?t=810",
+        "source": "Striver"
+      },
+      {
+        "id": 50,
+        "name": "Check if String is Palindrome or Not ",
+        "topic": "Learn the basics",
+        "java_url": "https://youtu.be/s5f5O3VGkI8",
+        "source": "YouTube (Other)"
+      },
+      {
+        "id": 311,
+        "name": "Diameter of Binary Tree",
+        "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+        "java_url": "https://youtu.be/Rezetez59Nk",
+        "source": "Striver"
+      },
+      {
+        "id": 383,
+        "name": "Path with minimum effort",
+        "topic": "Graphs [Concepts & Problems]",
+        "java_url": "https://youtu.be/0ytpZyiZFhA",
+        "source": "Striver"
+      },
+      {
+        "id": 8,
+        "name": "Functions (Pass by Reference and Value)",
+        "topic": "Learn the basics",
+        "java_url": "https://youtu.be/EAR7De6Goz4?t=3677",
+        "source": "Striver"
+      },
+      {
+        "id": 97,
+        "name": "Merge two sorted arrays without extra space",
+        "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+        "java_url": "https://youtu.be/n7uwj04E0I4",
+        "source": "Striver"
+      },
+      {
+        "id": 343,
+        "name": "Check if a tree is a BST or not",
+        "topic": "Binary Search Trees [Concept and Problems]",
+        "java_url": "https://youtu.be/f-sj7I5oXEI",
+        "source": "Striver"
+      },
+      {
+        "id": 437,
+        "name": "Best time to buy and sell stock",
+        "topic": "Dynamic Programming [Patterns and Problems]",
+        "java_url": "https://youtu.be/excAOvwF_Wk",
+        "source": "Striver"
+      },
+      {
+        "id": 438,
+        "name": "Best time to buy and sell stock II",
+        "topic": "Dynamic Programming [Patterns and Problems]",
+        "java_url": "https://youtu.be/nGJmxkUJQGs",
+        "source": "Striver"
+      },
+      {
+        "id": 462,
+        "name": "Number of distinct substrings in a string",
+        "topic": "Tries",
+        "java_url": "https://youtu.be/RV0QeTyHZxo",
+        "source": "Striver"
+      },
+      {
+        "id": 355,
+        "name": "Traversal Techniques",
+        "topic": "Graphs [Concepts & Problems]",
+        "java_url": "https://youtu.be/Qzf1a--rhp8",
+        "source": "Striver"
+      },
+      {
+        "id": 86,
+        "name": "Set Matrix Zeroes",
+        "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+        "java_url": "https://youtu.be/N0MgLvceX7M",
+        "source": "Striver"
+      },
+      {
+        "id": 12,
+        "name": "Pattern 1",
+        "topic": "Learn the basics",
+        "java_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w",
+        "source": "Striver"
+      },
+      {
+        "id": 124,
+        "name": "Split array - largest sum",
+        "topic": "Binary Search [1D, 2D Arrays, Search Space]",
+        "java_url": "https://youtu.be/thUd_WJn6wk",
+        "source": "Striver"
+      },
+      {
+        "id": 425,
+        "name": "Unbounded knapsack",
+        "topic": "Dynamic Programming [Patterns and Problems]",
+        "java_url": "https://youtu.be/OgvOZ6OrJoY",
+        "source": "Striver"
+      },
+      {
+        "id": 23,
+        "name": "Pattern 12",
+        "topic": "Learn the basics",
+        "java_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w",
+        "source": "Striver"
+      },
+      {
+        "id": 302,
+        "name": "Postorder Traversal",
+        "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+        "java_url": "https://youtu.be/2YBhNLodD8Q",
+        "source": "Striver"
+      },
+      {
+        "id": 100,
+        "name": "Reverse Pairs",
+        "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+        "java_url": "https://youtu.be/0e4bZaP3MDI",
+        "source": "Striver"
+      },
+      {
+        "id": 178,
+        "name": "Flattening of LL",
+        "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+        "java_url": "https://youtu.be/ykelywHJWLg",
+        "source": "Striver"
+      },
+      {
+        "id": 320,
+        "name": "Symmetric Binary Tree",
+        "topic": "Binary Trees [Traversals, Medium and Hard Problems]",
+        "java_url": "https://youtu.be/nKggiEpBE",
+        "source": "YouTube (Other)"
+      }
+    ]
+  }
+}

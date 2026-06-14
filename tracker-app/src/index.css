@@ -666,6 +666,23 @@ a:hover {
   flex-shrink: 0;
 }
 
+/* ── Recommended badge ────────────────────────── subtle orange pill */
+.badge-recommended {
+  font-size: 0.6rem;
+  font-family: var(--header-font);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  background-color: #f89820;
+  color: #111;
+  white-space: nowrap;
+  margin-left: 0.3rem;
+  display: inline-flex;
+  align-items: center;
+}
+
 /* light theme adaptation for the badge */
 [data-theme="light"] .badge-no-lc {
   background-color: rgba(44, 187, 93, 0.12);
