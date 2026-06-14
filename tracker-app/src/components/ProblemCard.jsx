@@ -1,6 +1,17 @@
 import React from 'react';
 
+// Determine the label for the solve button based on URL domain
+function getSolveLabel(url) {
+  if (!url) return null;
+  if (url.includes('leetcode.com')) return '🔗 Solve (LC)';
+  if (url.includes('geeksforgeeks.org')) return '🔗 Solve (GFG)';
+  if (url.includes('codingninjas.com') || url.includes('naukri.com/code360')) return '🔗 Solve (CN)';
+  return '🔗 Solve';
+}
+
 export default function ProblemCard({ problem, status, updateStatus }) {
+  const solveLabel = getSolveLabel(problem.solve_url);
+
   return (
     <div className="glass-panel problem-card">
       <div className="problem-header">
@@ -17,15 +28,31 @@ export default function ProblemCard({ problem, status, updateStatus }) {
       
       <div className="problem-actions">
         <div className="links">
-          {problem.leetcode_url && (
-            <a href={problem.leetcode_url} target="_blank" rel="noreferrer" className="link-btn">
-              [ 💻 LeetCode ]
+          {/* Solve Button — LC preferred, GFG fallback */}
+          {problem.solve_url ? (
+            <a href={problem.solve_url} target="_blank" rel="noreferrer" className="link-btn link-btn-solve">
+              {solveLabel}
             </a>
+          ) : (
+            <span className="link-btn link-btn-disabled">[ Solve N/A ]</span>
           )}
-          {problem.youtube_url && (
-            <a href={problem.youtube_url} target="_blank" rel="noreferrer" className="link-btn">
-              [ 📺 YouTube ]
+
+          {/* Striver Button */}
+          {problem.youtube_url ? (
+            <a href={problem.youtube_url} target="_blank" rel="noreferrer" className="link-btn link-btn-striver">
+              📺 Striver
             </a>
+          ) : (
+            <span className="link-btn link-btn-disabled">📺 Striver</span>
+          )}
+
+          {/* Java Button */}
+          {problem.java_url ? (
+            <a href={problem.java_url} target="_blank" rel="noreferrer" className="link-btn link-btn-java">
+              ☕ Java
+            </a>
+          ) : (
+            <span className="link-btn link-btn-disabled">☕ Java</span>
           )}
         </div>
         

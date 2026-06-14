@@ -1,0 +1,1070 @@
+﻿
+[
+  {
+    "id": 1,
+    "name": "Input Output",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 2,
+    "name": "Cpp Basics",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 3,
+    "name": "If ElseIf",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 4,
+    "name": "Switch Case",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 5,
+    "name": "What are arrays, strings?",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 6,
+    "name": "For loops",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 7,
+    "name": "While loops",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 8,
+    "name": "Functions (Pass by Reference and Value)",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 9,
+    "name": "Theory with examples",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 10,
+    "name": "Easy and Medium",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 11,
+    "name": "Hard",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 12,
+    "name": "Pattern 1",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 13,
+    "name": "Pattern 2",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 14,
+    "name": "Pattern 3",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 15,
+    "name": "Pattern 4",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 16,
+    "name": "Pattern 5",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 17,
+    "name": "Pattern 6",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 18,
+    "name": "Pattern 7",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 19,
+    "name": "Pattern 8",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 20,
+    "name": "Pattern 9",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 21,
+    "name": "Pattern 10",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 22,
+    "name": "Pattern 11",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 23,
+    "name": "Pattern 12",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 24,
+    "name": "Pattern 13",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 25,
+    "name": "Pattern 14",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 26,
+    "name": "Pattern 15",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 27,
+    "name": "Pattern 16",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 28,
+    "name": "Pattern 17",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 29,
+    "name": "Pattern 18",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 30,
+    "name": "Pattern 19",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 31,
+    "name": "Pattern 20",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 32,
+    "name": "Pattern 21",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 33,
+    "name": "Pattern 22",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 34,
+    "name": "STL",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 35,
+    "name": "Java Collections",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 36,
+    "name": "Count all Digits of a Number",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 39,
+    "name": "GCD of Two Numbers",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 41,
+    "name": "Print all Divisors",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 42,
+    "name": "Check for Prime Number",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 43,
+    "name": "Understand recursion by print something N times",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 44,
+    "name": "Print name N times using recursion",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 45,
+    "name": "Print 1 to N using Recursion",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 46,
+    "name": "Print N to 1 using Recursion",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 47,
+    "name": "Sum of First N Numbers",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 48,
+    "name": "Factorial of a given number",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 49,
+    "name": "Reverse an array",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 52,
+    "name": "Basic Hashing",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 53,
+    "name": "Counting Frequencies of Array Elements",
+    "topic": "Learn the basics"
+  },
+  {
+    "id": 55,
+    "name": "Selection Sort",
+    "topic": "Learn Important Sorting Techniques"
+  },
+  {
+    "id": 56,
+    "name": "Bubble Sort",
+    "topic": "Learn Important Sorting Techniques"
+  },
+  {
+    "id": 57,
+    "name": "Insertion Sorting",
+    "topic": "Learn Important Sorting Techniques"
+  },
+  {
+    "id": 58,
+    "name": "Merge Sorting",
+    "topic": "Learn Important Sorting Techniques"
+  },
+  {
+    "id": 59,
+    "name": "Recursive Bubble Sort",
+    "topic": "Learn Important Sorting Techniques"
+  },
+  {
+    "id": 60,
+    "name": "Recursive Insertion Sort",
+    "topic": "Learn Important Sorting Techniques"
+  },
+  {
+    "id": 61,
+    "name": "Quick Sorting",
+    "topic": "Learn Important Sorting Techniques"
+  },
+  {
+    "id": 62,
+    "name": "Largest Element ",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 63,
+    "name": "Second Largest Element",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 69,
+    "name": "Linear Search",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 70,
+    "name": "Union of two sorted arrays",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 71,
+    "name": "Find missing number",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 74,
+    "name": "Longest subarray with given sum K(positives)",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 75,
+    "name": "Longest subarray with sum K",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 80,
+    "name": "Print subarray with maximum subarray sum (extended version of above problem)",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 84,
+    "name": "Leaders in an Array",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 94,
+    "name": "Largest Subarray with Sum 0",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 95,
+    "name": "Count subarrays with given xor K",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 98,
+    "name": "Find the repeating and missing number",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 99,
+    "name": "Count Inversions",
+    "topic": "Solve Problems on Arrays [Easy -> Medium -> Hard]"
+  },
+  {
+    "id": 103,
+    "name": "Lower Bound ",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 104,
+    "name": "Upper Bound",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 106,
+    "name": "Floor and Ceil in Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 108,
+    "name": "Count Occurrences in a Sorted Array",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 112,
+    "name": "Find out how many times the array is rotated",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 115,
+    "name": "Find square root of a number",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 116,
+    "name": "Find Nth root of a number",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 122,
+    "name": "Aggressive Cows",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 123,
+    "name": "Book Allocation Problem",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 125,
+    "name": "Painter's Partition",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 128,
+    "name": "Kth element of 2 sorted arrays",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 129,
+    "name": "Find row with maximum 1's",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 133,
+    "name": "Matrix Median",
+    "topic": "Binary Search [1D, 2D Arrays, Search Space]"
+  },
+  {
+    "id": 145,
+    "name": "Count Number of Substrings",
+    "topic": "Strings [Basic and Medium]"
+  },
+  {
+    "id": 149,
+    "name": "Introduction to Singly LinkedList",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 150,
+    "name": "Insertion at the head of Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 152,
+    "name": "Find the length of the Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 153,
+    "name": "Search in Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 154,
+    "name": "Introduction to Doubly LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 155,
+    "name": "Insert node before head in Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 156,
+    "name": "Delete head of Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 157,
+    "name": "Reverse a Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 163,
+    "name": "Length of loop in LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 169,
+    "name": "Sort a Linked List of 0's 1's and 2's",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 171,
+    "name": "Add one to a number represented by LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 173,
+    "name": "Delete all occurrences of a key in DLL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 174,
+    "name": "Find Pairs with Given Sum in Doubly Linked List",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 175,
+    "name": "Remove duplicates from sorted DLL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 178,
+    "name": "Flattening of LL",
+    "topic": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]"
+  },
+  {
+    "id": 183,
+    "name": "Sort a stack using recursion",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 184,
+    "name": "Reverse a Stack",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 185,
+    "name": "Generate Binary Strings Without Consecutive 1s",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 187,
+    "name": "Power Set",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 188,
+    "name": "Learn All Patterns of Subsequences (Theory)",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 189,
+    "name": "Count all subsequences with sum K",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 190,
+    "name": "Check if there exists a subsequence with sum K",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 193,
+    "name": "Subsets I",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 197,
+    "name": "Palindrome partitioning",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 200,
+    "name": "Rat in a Maze",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 201,
+    "name": "Word Break",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 202,
+    "name": "M Coloring Problem",
+    "topic": "Recursion [PatternWise]"
+  },
+  {
+    "id": 205,
+    "name": "Introduction to Bits and Tricks",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 206,
+    "name": "Check if the i-th bit is Set or Not",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 207,
+    "name": "Check if a Number is Odd or Not",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 209,
+    "name": "Count the Number of Set Bits",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 210,
+    "name": "Set/Unset the rightmost unset bit",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 211,
+    "name": "Swap Two Numbers",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 216,
+    "name": "XOR of numbers in a given range",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 217,
+    "name": "Single Number - III",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 218,
+    "name": "Print Prime Factors of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 219,
+    "name": "Divisors of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 221,
+    "name": "Prime factorisation of a Number",
+    "topic": "Bit Manipulation [Concepts & Problems]"
+  },
+  {
+    "id": 223,
+    "name": "Implement Stack using Arrays",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 224,
+    "name": "Implement Queue using Arrays",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 227,
+    "name": "Implement stack using Linkedlist",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 228,
+    "name": "Implement queue using Linkedlist",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 231,
+    "name": "Infix to Postfix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 232,
+    "name": "Prefix to Infix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 233,
+    "name": "Prefix to Postfix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 234,
+    "name": "Postfix to Prefix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 235,
+    "name": "Postfix to Infix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 236,
+    "name": "Infix to Prefix Conversion",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 239,
+    "name": "Next Smaller Element",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 240,
+    "name": "Number of Greater Elements to the Right",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 250,
+    "name": "Celebrity Problem",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 251,
+    "name": "LRU Cache",
+    "topic": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]"
+  },
+  {
+    "id": 255,
+    "name": " Fruit Into Baskets",
+    "topic": "Sliding Window & Two Pointer Combined Problems"
+  },
+  {
+    "id": 265,
+    "name": "Kth smallest element in an array [use priority queue]",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 266,
+    "name": "Heaps (Theory Video)",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 267,
+    "name": "Implement Min Heap",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 268,
+    "name": "Check if an array represents a min heap ",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 269,
+    "name": "Convert Min Heap to Max Heap",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 270,
+    "name": "K-th Largest element in an array",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 271,
+    "name": "Sort K sorted array",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 273,
+    "name": "Replace Elements by Their Rank",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 277,
+    "name": "Minimum Cost to Connect Sticks",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 279,
+    "name": "Maximum Sum Combination",
+    "topic": "Heaps [Learning, Medium, Hard Problems]"
+  },
+  {
+    "id": 283,
+    "name": "Fractional Knapsack",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]"
+  },
+  {
+    "id": 286,
+    "name": "N meetings in one room",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]"
+  },
+  {
+    "id": 289,
+    "name": "Minimum number of platforms required for a railway",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]"
+  },
+  {
+    "id": 290,
+    "name": "Job sequencing Problem",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]"
+  },
+  {
+    "id": 292,
+    "name": "Shortest Job First",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]"
+  },
+  {
+    "id": 293,
+    "name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+    "topic": "Greedy Algorithms [Easy, Medium/Hard]"
+  },
+  {
+    "id": 297,
+    "name": "Introduction to Trees",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 298,
+    "name": "Binary Tree Representation in Java",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 299,
+    "name": "Pre, Post, Inorder in one traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 308,
+    "name": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 317,
+    "name": "Top View of BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 318,
+    "name": "Bottom view of BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 321,
+    "name": "Print root to leaf path in BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 324,
+    "name": "Children Sum Property in Binary Tree",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 326,
+    "name": "Minimum time taken to burn the BT from a given Node",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 328,
+    "name": "Requirements needed to construct a unique BT",
+    "topic": "Binary Trees [Traversals, Medium and Hard Problems]"
+  },
+  {
+    "id": 335,
+    "name": "Introduction to BST",
+    "topic": "Binary Search Trees [Concept and Problems]"
+  },
+  {
+    "id": 337,
+    "name": "Find Min/Max in BST",
+    "topic": "Binary Search Trees [Concept and Problems]"
+  },
+  {
+    "id": 338,
+    "name": "Floor and Ceil in a BST",
+    "topic": "Binary Search Trees [Concept and Problems]"
+  },
+  {
+    "id": 339,
+    "name": "Floor in a Binary Search Tree",
+    "topic": "Binary Search Trees [Concept and Problems]"
+  },
+  {
+    "id": 351,
+    "name": "Introduction to Graph",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 352,
+    "name": "Graph Representation | C++",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 353,
+    "name": "Graph Representation | Java",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 354,
+    "name": "Connected Components",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 355,
+    "name": "Traversal Techniques",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 356,
+    "name": "DFS",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 358,
+    "name": "Connected Components Problem in Matrix",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 361,
+    "name": "Cycle Detection in Undirected Graph (bfs)",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 371,
+    "name": "Topo Sort",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 372,
+    "name": "Topological sort or Kahn's algorithm",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 378,
+    "name": "Shortest path in undirected graph with unit weights",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 379,
+    "name": "Shortest path in DAG",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 380,
+    "name": "Djisktra's Algorithm",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 381,
+    "name": "Why priority Queue is used in Djisktra's Algorithm",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 387,
+    "name": "Minimum multiplications to reach end",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 388,
+    "name": "Bellman Ford Algorithm",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 389,
+    "name": "Floyd warshall algorithm",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 391,
+    "name": "MST theory",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 392,
+    "name": "Prim's Algorithm",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 393,
+    "name": "Disjoint Set ",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 394,
+    "name": "Find the MST weight",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 402,
+    "name": "Articulation point in graph",
+    "topic": "Graphs [Concepts & Problems]"
+  },
+  {
+    "id": 404,
+    "name": "Introduction to DP",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 406,
+    "name": "Frog Jump",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 407,
+    "name": "Frog jump with K distances",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 410,
+    "name": "Ninja's training",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 415,
+    "name": "Ninja and his Friends",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 416,
+    "name": "Subset sum equal to target (DP- 14)",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 419,
+    "name": "Count subsets with sum K",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 420,
+    "name": "Count partitions with given difference",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 425,
+    "name": "Unbounded knapsack",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 426,
+    "name": "Rod Cutting Problem | (DP - 24)",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 427,
+    "name": "Longest common subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 428,
+    "name": "Print Longest Common Subsequence | (DP - 26)",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 429,
+    "name": "Longest common substring",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 443,
+    "name": "Longest Increasing Subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 444,
+    "name": "Print Longest Increasing Subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 445,
+    "name": "Longest Increasing Subsequence |(DP-43)",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 448,
+    "name": "Longest Bitonic Subsequence",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 450,
+    "name": "Matrix chain multiplication",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 451,
+    "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+    "topic": "Dynamic Programming [Patterns and Problems]"
+  },
+  {
+    "id": 460,
+    "name": "Trie Implementation and Advanced Operations",
+    "topic": "Tries"
+  },
+  {
+    "id": 461,
+    "name": "Longest Word with All Prefixes",
+    "topic": "Tries"
+  },
+  {
+    "id": 462,
+    "name": "Number of distinct substrings in a string",
+    "topic": "Tries"
+  },
+  {
+    "id": 463,
+    "name": "Bit PreRequisites for TRIE Problems",
+    "topic": "Tries"
+  },
+  {
+    "id": 468,
+    "name": "Hashing In Strings | Theory",
+    "topic": "Strings"
+  },
+  {
+    "id": 470,
+    "name": "Z function",
+    "topic": "Strings"
+  },
+  {
+    "id": 472,
+    "name": "Shortest Palindrome",
+    "topic": "Strings"
+  }
+]
+
+
