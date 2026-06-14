@@ -61,7 +61,13 @@ function App() {
 
       <main>
         {activeTab === 'dashboard' && (
-          <Dashboard problems={problemsData} progress={progress} completions={completions} onTopicClick={handleTopicClick} />
+          <Dashboard 
+            problems={problemsData} 
+            progress={progress} 
+            completions={completions} 
+            onTopicClick={handleTopicClick} 
+            onContinue={handleContinue}
+          />
         )}
         {activeTab === 'problems' && (
           <Problems 
